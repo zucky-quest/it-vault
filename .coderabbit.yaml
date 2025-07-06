@@ -1,0 +1,23 @@
+language: "ja"
+early_access: false
+reviews:
+  request_changes_workflow: true
+  high_level_summary: true
+  review_status: true
+  collapse_walkthrough: false
+  path_instructions:
+    - path: "**/article/*.{md}"
+      instructions: |
+        "./cursor/rules.mdを参考にしてください。
+        あなたは記事の読者です
+        。"
+  auto_review:
+    enabled: true
+    ignore_title_keywords:
+      - "WIP"
+      - "DO NOT MERGE"
+    drafts: false
+    base_branches:
+      - "feature/.*"
+chat:
+  auto_reply: true
