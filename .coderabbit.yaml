@@ -8,9 +8,15 @@ reviews:
   path_instructions:
     - path: "**/article/*.{md}"
       instructions: |
-        "./cursor/rules.mdを参考にしてください。
-        あなたは記事の読者です
-        。"
+        "あなたは記事の読者です。
+        .cursor/rules/globals.mdc のルールに従ってレビューしてください。
+
+        以下の観点で記事を評価してください：
+        - 記事の目的と対象読者の明確性
+        - 技術的精度と実用性
+        - 読みやすさと構成の論理性
+        - コード例の適切性と説明の充実度
+        - 専門用語の説明の分かりやすさ"
   auto_review:
     enabled: true
     ignore_title_keywords:
