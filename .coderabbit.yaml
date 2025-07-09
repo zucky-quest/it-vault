@@ -6,9 +6,9 @@ reviews:
   review_status: true
   collapse_walkthrough: false
   path_instructions:
-    - path: "**/article/*.{md}"
+    - path: "**/article/*.md"
       instructions: |
-        "あなたは記事の読者です。
+        あなたは記事の読者です。
         .cursor/rules/globals.mdc のルールに従ってレビューしてください。
 
         以下の観点で記事を評価してください：
@@ -16,7 +16,7 @@ reviews:
         - 技術的精度と実用性
         - 読みやすさと構成の論理性
         - コード例の適切性と説明の充実度
-        - 専門用語の説明の分かりやすさ"
+        - 専門用語の説明の分かりやすさ
   auto_review:
     enabled: true
     ignore_title_keywords:
@@ -24,6 +24,6 @@ reviews:
       - "DO NOT MERGE"
     drafts: false
     base_branches:
-      - "feature/.*"
+      - "feature/*"
 chat:
   auto_reply: true
