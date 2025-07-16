@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45adbbbd04abe3bd",
+  "active": "fe2287c295f0a5a6",
   "lastOpenFiles": [
     "memo/Git.md",
     "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
