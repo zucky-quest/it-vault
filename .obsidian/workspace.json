@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea70dd1afa6ffe79",
+        "id": "243cefc1228a04b0",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2287c295f0a5a6",
+            "id": "207a666e5c4e9e20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clippings/The Agentic Development Environment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Agentic Development Environment"
+              "title": "新規タブ"
             }
           }
         ]
@@ -193,10 +189,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe2287c295f0a5a6",
+  "active": "207a666e5c4e9e20",
   "lastOpenFiles": [
-    "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
+    "Test.md",
+    "Tldraw 2025-06-22 4.44午後.md",
+    "Welcome.md",
+    "README.md",
+    "ITカンバン.md",
+    "memo/プロフィール作成.md",
+    "clippings/無題のファイル.md",
     "clippings/The Agentic Development Environment.md",
+    "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
     "memo/Git.md",
     "clippings/MermaidでAWS構成図を作成するテクニック.md",
     "article/qiita/git-commands-guide.md",
@@ -206,9 +209,7 @@
     "article/qiita/first.md",
     "article/qiita",
     "article/quiita",
-    "Tldraw 2025-06-22 4.44午後.md",
     "memo",
-    "Welcome.md",
     "clippings/よく使うGitコマンド19選！使い方を初心者向けにわかりやすく解説  侍エンジニアブログ.md",
     "無題のファイル.canvas",
     "clippings/Gitでよく使うコマンド一覧.md",
@@ -217,7 +218,6 @@
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "clippings/Cookieだけじゃない！Webの裏側で“あなたの行動”はこう見られている.md",
-    "README.md",
     "article",
     "capture",
     "docs/version-manage.md",
@@ -228,7 +228,6 @@
     "obsidian/captrue/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
     "obsidian/captrue",
     "obsidian",
-    "2025-06-17.md",
-    "Test.md"
+    "2025-06-17.md"
   ]
 }
