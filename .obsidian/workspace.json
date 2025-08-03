@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-08-03.md",
+                "file": "daily/2025-08-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-03"
+              "title": "2025-08-04"
             }
           }
         ]
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207a666e5c4e9e20",
+  "active": "45adbbbd04abe3bd",
   "lastOpenFiles": [
+    "daily/2025-08-03.md",
     "daily/2025-08-04.md",
-    "2025-08-03.md",
     "daily",
     "ITカンバン.md",
     "memo/プロフィール作成.md",
