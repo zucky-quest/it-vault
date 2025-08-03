@@ -11,20 +11,14 @@
             "id": "207a666e5c4e9e20",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ITカンバン.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "2025-08-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ITカンバン"
+              "icon": "lucide-file",
+              "title": "2025-08-03"
             }
           }
         ]
@@ -178,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,13 +194,16 @@
   },
   "active": "207a666e5c4e9e20",
   "lastOpenFiles": [
+    "daily/2025-08-04.md",
+    "2025-08-03.md",
+    "daily",
+    "ITカンバン.md",
     "memo/プロフィール作成.md",
     "clippings/【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開.md",
     "Test.md",
     "Tldraw 2025-06-22 4.44午後.md",
     "Welcome.md",
     "README.md",
-    "ITカンバン.md",
     "clippings/無題のファイル.md",
     "clippings/The Agentic Development Environment.md",
     "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
@@ -236,9 +232,6 @@
     "docs",
     "obsidian/captrue/capture",
     "Clippings/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
-    "obsidian/captrue/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
-    "obsidian/captrue",
-    "obsidian",
-    "2025-06-17.md"
+    "obsidian/captrue"
   ]
 }
