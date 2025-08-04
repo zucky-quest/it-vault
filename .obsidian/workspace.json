@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-04.md",
+                "file": "docs/version-manage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-04"
+              "title": "version-manage"
             }
           }
         ]
@@ -192,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45adbbbd04abe3bd",
+  "active": "207a666e5c4e9e20",
   "lastOpenFiles": [
-    "daily/2025-08-03.md",
+    "docs/dir-structure.md",
     "daily/2025-08-04.md",
+    "daily/2025-08-03.md",
     "daily",
     "ITカンバン.md",
     "memo/プロフィール作成.md",
@@ -228,7 +229,6 @@
     "article",
     "capture",
     "docs/version-manage.md",
-    "docs/dir-structure.md",
     "docs",
     "obsidian/captrue/capture",
     "Clippings/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
