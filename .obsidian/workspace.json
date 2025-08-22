@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dac01e02bd808f1e",
+        "id": "f73ede5b6fe7ab6b",
         "type": "tabs",
         "children": [
           {
-            "id": "be8220a99017817d",
+            "id": "642691f242deb71f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
         ]
@@ -176,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -188,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be8220a99017817d",
+  "active": "642691f242deb71f",
   "lastOpenFiles": [
     "docs/version-manage.md",
     "docs/dir-structure.md",
