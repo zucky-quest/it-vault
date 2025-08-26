@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f73ede5b6fe7ab6b",
+        "id": "d4d0c51805992029",
         "type": "tabs",
         "children": [
           {
-            "id": "642691f242deb71f",
+            "id": "bc16aa7b5b6600a9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -191,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "642691f242deb71f",
+  "active": "bc16aa7b5b6600a9",
   "lastOpenFiles": [
     "docs/version-manage.md",
     "docs/dir-structure.md",
