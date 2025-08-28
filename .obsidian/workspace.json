@@ -11,10 +11,14 @@
             "id": "bc16aa7b5b6600a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clippings/【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "bc16aa7b5b6600a9",
   "lastOpenFiles": [
+    "clippings/【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート.md",
     "docs/version-manage.md",
     "docs/dir-structure.md",
     "daily/2025-08-04.md",
@@ -228,7 +233,6 @@
     "capture",
     "docs",
     "obsidian/captrue/capture",
-    "Clippings/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
     "obsidian/captrue"
   ]
 }
