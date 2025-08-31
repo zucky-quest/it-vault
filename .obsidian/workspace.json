@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d0c51805992029",
+        "id": "8565005f6dcbfa99",
         "type": "tabs",
         "children": [
           {
-            "id": "bc16aa7b5b6600a9",
+            "id": "6ca9c83eff55d877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート.md",
+                "file": "memo/Install git hook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート"
+              "title": "Install git hook"
             }
           }
         ]
@@ -193,21 +193,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc16aa7b5b6600a9",
+  "active": "45adbbbd04abe3bd",
   "lastOpenFiles": [
-    "clippings/【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート.md",
-    "docs/version-manage.md",
+    "memo/Install git hook.md",
     "docs/dir-structure.md",
+    "README.md",
+    "Welcome.md",
+    "clippings/【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート.md",
+    "Tldraw 2025-06-22 4.44午後.md",
+    "Test.md",
+    "docs/version-manage.md",
     "daily/2025-08-04.md",
     "daily/2025-08-03.md",
     "daily",
     "ITカンバン.md",
     "memo/プロフィール作成.md",
     "clippings/【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開.md",
-    "Test.md",
-    "Tldraw 2025-06-22 4.44午後.md",
-    "Welcome.md",
-    "README.md",
     "clippings/無題のファイル.md",
     "clippings/The Agentic Development Environment.md",
     "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
@@ -228,7 +229,6 @@
     "clippings/【全37種】よく使うLinuxコマンド一覧！基本的な使い方も紹介  侍エンジニアブログ.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
-    "clippings/Cookieだけじゃない！Webの裏側で“あなたの行動”はこう見られている.md",
     "article",
     "capture",
     "docs",
