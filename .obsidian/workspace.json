@@ -210,6 +210,11 @@
   },
   "active": "983b76a85dcb079a",
   "lastOpenFiles": [
+    "docs/1_develop/version-manage.md",
+    "docs/0_design/dir-structure.md",
+    "docs/1_develop",
+    "docs/0_design/1_develop",
+    "docs/0_design",
     "memo/Install git hook.md",
     "article/qiita/auto-source-review.md",
     "docs/dir-structure.md",
@@ -240,14 +245,9 @@
     "memo",
     "clippings/よく使うGitコマンド19選！使い方を初心者向けにわかりやすく解説  侍エンジニアブログ.md",
     "無題のファイル.canvas",
-    "clippings/Gitでよく使うコマンド一覧.md",
-    "clippings/uhooi.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "article",
-    "capture",
-    "docs",
-    "obsidian/captrue/capture",
-    "obsidian/captrue"
+    "capture"
   ]
 }
