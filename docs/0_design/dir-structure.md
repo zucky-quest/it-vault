@@ -12,4 +12,4 @@
 └── memo/ (雑記)
 ```
 
-- [Ref](https://tree.nathanfriend.com/)
+- [Edit](https://tree.nathanfriend.com/)
