@@ -11,10 +11,14 @@
             "id": "f8287c86ade7241d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clippings/初心者がDockerfileを書くときに身につけたい5つの習慣.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "初心者がDockerfileを書くときに身につけたい5つの習慣"
             }
           }
         ]
@@ -191,6 +195,8 @@
   },
   "active": "f8287c86ade7241d",
   "lastOpenFiles": [
+    "clippings/生成AIをもっと使いこなすための便利API108選.md",
+    "clippings/初心者がDockerfileを書くときに身につけたい5つの習慣.md",
     "memo/プロフィール作成.md",
     "memo/apidog.md",
     "memo/Install git hook.md",
@@ -219,7 +225,6 @@
     "clippings/MermaidでAWS構成図を作成するテクニック.md",
     "article/qiita/git-commands-guide.md",
     "clippings/Playwright MCP を使ってAIにブラウザ操作をさせてみる（GitHub Copilot  Cline 環境構築手順付）.md",
-    "memo/VSCode - GitLensを用いたソースレビュー.md",
     "memo/Git",
     "article/qiita",
     "article/quiita",
