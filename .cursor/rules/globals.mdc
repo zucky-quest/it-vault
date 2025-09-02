@@ -99,6 +99,7 @@ alwaysApply: true
 ## 6 **守るべきルールのディレクトリ/ファイル**
 
 - .cursor/rules/dev-rules/*.mdc
+- docs/**/*md
 - 上記ファイルのルールを厳守してください。
 
 ---
