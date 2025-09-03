@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memo/apidog.md",
+                "file": "docs/1_operation/article-rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "apidog"
+              "title": "article-rule"
             }
           }
         ]
@@ -195,14 +195,15 @@
   },
   "active": "f8287c86ade7241d",
   "lastOpenFiles": [
+    "memo/apidog.md",
+    "docs/1_operation/article-rule.md",
     "clippings/【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選.md",
     "clippings/初心者がDockerfileを書くときに身につけたい5つの習慣.md",
     "clippings/生成AIをもっと使いこなすための便利API108選.md",
     "memo/プロフィール作成.md",
-    "memo/apidog.md",
     "memo/Install git hook.md",
-    "docs/1_develop/version-manage.md",
-    "docs/1_develop",
+    "docs/1_operation/version-manage.md",
+    "docs/1_operation",
     "docs/0_design/dir-structure.md",
     "docs/0_design",
     "daily/2025-08-04.md",
@@ -224,7 +225,6 @@
     "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
     "memo/Git.md",
     "clippings/MermaidでAWS構成図を作成するテクニック.md",
-    "article/qiita/git-commands-guide.md",
     "memo/Git",
     "article/qiita",
     "article/quiita",
