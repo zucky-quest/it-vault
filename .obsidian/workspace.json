@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "apidog"
             }
-          },
-          {
-            "id": "becd39ce1148494c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "becd39ce1148494c",
+  "active": "f8287c86ade7241d",
   "lastOpenFiles": [
     "clippings/【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選.md",
     "clippings/初心者がDockerfileを書くときに身につけたい5つの習慣.md",
