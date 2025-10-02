@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## WIP
 
+- [ ] N8N学習
+	https://github.com/n8n-io/n8n
 
 
 ## Todo
