@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "開発生産性の教科書 memo"
             }
+          },
+          {
+            "id": "8afa96337a796b50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8287c86ade7241d",
+  "active": "8afa96337a796b50",
   "lastOpenFiles": [
     "ITカンバン.md",
     "memo/開発生産性の教科書 memo.md",
