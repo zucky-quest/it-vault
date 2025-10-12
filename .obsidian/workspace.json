@@ -11,20 +11,14 @@
             "id": "f8287c86ade7241d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ITカンバン.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "memo/開発生産性の教科書 memo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ITカンバン"
+              "icon": "lucide-file",
+              "title": "開発生産性の教科書 memo"
             }
           }
         ]
@@ -201,6 +195,8 @@
   },
   "active": "f8287c86ade7241d",
   "lastOpenFiles": [
+    "ITカンバン.md",
+    "memo/開発生産性の教科書 memo.md",
     "docs/1_operation/article-rule.md",
     "memo/apidog.md",
     "clippings/【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選.md",
@@ -218,7 +214,6 @@
     "clippings/【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート.md",
     "clippings/【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開.md",
     "article/qiita/auto-source-review.md",
-    "ITカンバン.md",
     "docs/version-manage.md",
     "docs/dir-structure.md",
     "Tldraw 2025-06-22 4.44午後.md",
@@ -230,7 +225,6 @@
     "clippings/The Agentic Development Environment.md",
     "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
     "memo/Git.md",
-    "clippings/MermaidでAWS構成図を作成するテクニック.md",
     "memo/Git",
     "article/qiita",
     "article/quiita",
