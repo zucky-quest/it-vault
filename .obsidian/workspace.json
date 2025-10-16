@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memo/開発生産性の教科書 memo.md",
+                "file": "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "開発生産性の教科書 memo"
+              "title": "変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "7d98c7798a1bce59",
   "lastOpenFiles": [
-    "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
     "memo/開発生産性の教科書 memo.md",
+    "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
+    "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
     "ITカンバン.md",
     "docs/1_operation/article-rule.md",
     "memo/apidog.md",
@@ -240,7 +241,6 @@
     "Welcome.md",
     "clippings/無題のファイル.md",
     "clippings/The Agentic Development Environment.md",
-    "clippings/AI時代のコーディングを加速！2025年おすすめプログラマーツールTop10.md",
     "memo/Git",
     "article/qiita",
     "article/quiita",
