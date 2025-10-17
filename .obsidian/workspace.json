@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
+                "file": "memo/Install git hook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス"
+              "title": "Install git hook"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "husky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,8 +212,8 @@
   },
   "active": "7d98c7798a1bce59",
   "lastOpenFiles": [
-    "memo/開発生産性の教科書 memo.md",
     "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
+    "memo/開発生産性の教科書 memo.md",
     "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
     "ITカンバン.md",
     "docs/1_operation/article-rule.md",
