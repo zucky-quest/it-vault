@@ -23,8 +23,7 @@
       }, 
       "obsidian": {
         "command": "npx",
-        "args": ["-y", "mcp-obsidian", "${input:vaultPath}"]
+        "args": ["-y", "mcp-obsidian", "${env:OBSIDIAN_VAULT_PATH}"]
       }
-    }
   }
-  
+}
