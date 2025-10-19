@@ -2,6 +2,9 @@
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "boundary",
   "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
   },
