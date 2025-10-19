@@ -20,6 +20,10 @@
           "--context",
           "ide-assistant"
         ]
+      }, 
+      "obsidian": {
+        "command": "npx",
+        "args": ["-y", "mcp-obsidian", "${input:vaultPath}"]
       }
     }
   }
