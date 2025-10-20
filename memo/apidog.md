@@ -1,7 +1,7 @@
 ## 概要
 
 - apidogに関するメモ
- 	- <https://apidog.com/jp/>
+- <https://apidog.com/jp/>
 
 ## memo
 
@@ -11,3 +11,4 @@
 - api仕様書、api実行、mockの管理が一元管理できる
 - サンプルデータ
  	- <https://gyazo.com/90d1cb60d0ab434559c23bcf25bc9512>
+- mock サーバーを使用する際に例えばFrontendからapiリクエストする際にCORS設定が楽
