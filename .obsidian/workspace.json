@@ -211,6 +211,7 @@
   },
   "active": "45adbbbd04abe3bd",
   "lastOpenFiles": [
+    "docs/1_operation/platform-selection.md",
     "memo/Install git hook.md",
     "clippings/PostmanとApidog：適切なAPI開発ツールの選択.md",
     "article/qiita/apidog-guide.md",
@@ -240,7 +241,6 @@
     "Test.md",
     "docs/0_design/1_develop",
     "README.md",
-    "Welcome.md",
     "memo/Git",
     "article/qiita",
     "article/quiita",
