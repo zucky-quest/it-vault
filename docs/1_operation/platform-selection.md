@@ -4,6 +4,7 @@
 
 - 記事を書くプラットフォームの選定について記述
   - [Qiita](https://qiita.com/)
+  - [Zenn](https://zenn.dev/)
 
 ## QiitaとZennの違い
 
