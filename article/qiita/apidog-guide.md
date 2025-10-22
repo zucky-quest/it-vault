@@ -166,9 +166,7 @@ console.log(user); // モックデータが返される
 
 #### エンドポイントの追加
 
-- こちらはPostmanとほぼ同じですがCookieの設定などが
-
-
+- こちらの手順はPostmanとほぼ同じですがCookieの設定などがApidogの方がわかりやすい印象でした
 
 #### レスポンス例の設定
 
@@ -190,8 +188,9 @@ console.log(user); // モックデータが返される
 
 #### コピペでの設定例
 
+- 既存のAPIレスポンスをコピペ
+
 ```json
-// 既存のAPIレスポンスをコピペ
 {
   "status": "success",
   "data": {
@@ -224,7 +223,7 @@ curl -X POST https://mock.apidog.com/api/users \
 
 #### JavaScriptでのテスト例
 
-```javascript
+```js
 // フロントエンドでのAPI呼び出し例
 async function createUser(userData) {
   try {
