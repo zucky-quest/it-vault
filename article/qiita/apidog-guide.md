@@ -164,24 +164,11 @@ console.log(user); // モックデータが返される
 
 ### 2. API仕様書の作成
 
-#### エンドポイントの追加（コピペ対応）
+#### エンドポイントの追加
 
-```http
-# 既存のcurlコマンドやHTTPリクエストをコピペ可能
-POST /api/users
-Content-Type: application/json
+- こちらはPostmanとほぼ同じですがCookieの設定などが
 
-{
-  "name": "string",
-  "email": "string"
-}
-```
 
-**コピペのメリット**:
-
-- 既存のAPIドキュメントから簡単に移行
-- curlコマンドをそのまま貼り付けて仕様書化
-- 手動入力の手間を大幅削減
 
 #### レスポンス例の設定
 
