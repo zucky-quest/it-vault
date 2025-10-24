@@ -209,14 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45adbbbd04abe3bd",
+  "active": "7d98c7798a1bce59",
   "lastOpenFiles": [
+    "clippings/Untitled.md",
+    "clippings/PostmanとApidog：適切なAPI開発ツールの選択.md",
     "article/qiita/pdcaooda.md",
     "article/qiita/ooda.md",
     "memo/ooda.md",
     "docs/1_operation/platform-selection.md",
     "memo/Install git hook.md",
-    "clippings/PostmanとApidog：適切なAPI開発ツールの選択.md",
     "article/qiita/apidog-guide.md",
     "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
     "memo/開発生産性の教科書 memo.md",
@@ -239,7 +240,6 @@
     "clippings/【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開.md",
     "article/qiita/auto-source-review.md",
     "docs/version-manage.md",
-    "docs/dir-structure.md",
     "docs/0_design/1_develop",
     "memo/Git",
     "article/qiita",
