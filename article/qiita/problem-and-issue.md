@@ -187,3 +187,11 @@
 - [PDCAサイクル - Wikipedia](https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB)
 - [OODAループ - Wikipedia](https://ja.wikipedia.org/wiki/OODA%E3%83%AB%E3%83%BC%E3%83%97)
 - [変化に強い「OODAループ」とは？「PDCAサイクル」との違い](https://www.keyence.co.jp/ss/products/automation/ooda-loop.jsp)
+- [PDCAサイクルとOODAループ - 厚生労働省](https://www.mhlw.go.jp/content/001297217.pdf)
+
+## 余談
+
+### なぜこの記事を書いたのか
+
+<!-- TODO:添削 -->
+- 初めて努めた企業では
