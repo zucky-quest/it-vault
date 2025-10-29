@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/【完全比較】npm vs pnpm vs Yarn vs Bun、最強のパッケージマネージャーはどれだ？.md",
+                "file": "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【完全比較】npm vs pnpm vs Yarn vs Bun、最強のパッケージマネージャーはどれだ？"
+              "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "f8287c86ade7241d",
   "lastOpenFiles": [
-    "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
     "clippings/【完全比較】npm vs pnpm vs Yarn vs Bun、最強のパッケージマネージャーはどれだ？.md",
+    "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
+    "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
     "docs/1_operation/platform-selection.md",
     "clippings/PostmanとApidog：適切なAPI開発ツールの選択.md",
     "article/qiita/problem-and-issue.md",
@@ -224,7 +225,6 @@
     "daily/2025-08-04.md",
     "daily/2025-08-03.md",
     "daily",
-    "clippings/【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート.md",
     "docs/0_design/1_develop",
     "memo/Git",
     "article/qiita",
