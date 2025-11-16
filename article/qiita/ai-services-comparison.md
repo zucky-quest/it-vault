@@ -631,71 +631,113 @@ async def generate_response(
 
 ### ストリーミング処理の違い
 
+ストリーミング処理は、ユーザー体験を向上させる重要な機能です。各サービスで異なるアプローチを採用しているため、チャンク粒度やエラーハンドリングに違いがあります。
+
+#### ストリーミング処理の比較
+
+| 項目 | GoogleAIService | LangChainAIService | LangGraphAIService |
+|------|----------------|-------------------|-------------------|
+| **チャンク粒度** | 細かい（1-10文字、単語/トークン単位） | 中程度（10-50文字、文節単位） | 粗い（50-500文字、ノード単位） |
+| **レイテンシ** | 最低 | 中程度 | 高い |
+| **エラーハンドリング** | シンプル | 中程度 | 複雑 |
+| **バッファ管理** | 不要 | 必要（完全なレスポンス保存） | 必要（ノード間の状態管理） |
+
 #### GoogleAIServiceのストリーミング処理
 
+**実装方法**: LLMのストリーミングを直接利用
+
 ```python
-async def generate_stream(
-    self, 
-    message: Message, 
-    context: str = ""
-):
+async def generate_stream(self, message: Message, context: str = ""):
     prompt = self._build_prompt(message, context)
     messages = [HumanMessage(content=prompt)]
     
-    # シンプルなストリーミング
-    async for chunk in self._llm.astream(messages):
-        if chunk.content:
-            yield chunk.content
+    try:
+        async for chunk in self._llm.astream(messages):
+            if chunk.content:
+                yield chunk.content
+    except asyncio.CancelledError:
+        logger.info("ストリーミングがキャンセルされました")
+        raise
+    except Exception as e:
+        logger.error(f"ストリーミングエラー: {e}")
+        raise
 ```
+
+**特徴**:
+
+- **チャンク粒度**: 細かい（1-10文字程度）
+- **バッファ管理**: 不要（チャンクをそのまま転送）
+- **メモリ効率**: 最小限
+- **欠点**: 完全なレスポンスを後から取得できない
 
 #### LangChainAIServiceのストリーミング処理
 
+**実装方法**: チェーン経由のストリーミング
+
 ```python
-async def generate_stream(
-    self, 
-    message: Message, 
-    context: str = ""
-):
+async def generate_stream(self, message: Message, context: str = ""):
     messages = self._parse_context_to_messages(context)
     chain = self._prompt | self._llm
-    
     full_response = ""
-    # チェーン経由のストリーミング
-    async for chunk in chain.astream({
-        "input": message.content, 
-        "history": messages
-    }):
-        if hasattr(chunk, "content") and chunk.content:
-            content = chunk.content
-            full_response += content
-            yield content
     
-    # 完全なレスポンスを履歴に保存
+    try:
+        async for chunk in chain.astream({
+            "input": message.content, 
+            "history": messages
+        }):
+            if hasattr(chunk, "content") and chunk.content:
+                content = chunk.content
+                full_response += content
+                yield content
+    except Exception as e:
+        # エラー発生時も、これまでに受信したチャンクは保存
+        if full_response:
+            self._memory.chat_memory.add_ai_message(full_response)
+        raise
+    
     self._memory.chat_memory.add_ai_message(full_response)
 ```
 
+**特徴**:
+
+- **チャンク粒度**: 中程度（10-50文字程度）
+- **バッファ管理**: 必要（`full_response`に蓄積）
+- **利点**: 完全なレスポンスを後から取得可能
+- **注意点**: メモリリークのリスク、チャンクの欠落の可能性
+
 #### LangGraphAIServiceのストリーミング処理
 
+**実装方法**: グラフの各ノードからのストリーミング
+
 ```python
-async def generate_stream(
-    self, 
-    message: Message, 
-    context: str = ""
-):
+async def generate_stream(self, message: Message, context: str = ""):
     messages = self._parse_context_to_messages(context)
     messages.append(HumanMessage(content=message.content))
     state = {"messages": messages, "intent": None}
     
-    # グラフの各ノードからのストリーミング
-    async for chunk in self._graph.astream(state):
-        for node_name, node_output in chunk.items():
-            if node_name == "normal_chat" or node_name == "rag_chat":
-                # ノードごとの出力を処理
-                if "messages" in node_output:
-                    last_message = node_output["messages"][-1]
-                    if hasattr(last_message, "content"):
-                        yield last_message.content
+    try:
+        async for chunk in self._graph.astream(state):
+            for node_name, node_output in chunk.items():
+                if node_name in ["normal_chat", "rag_chat"]:
+                    if "messages" in node_output:
+                        last_message = node_output["messages"][-1]
+                        if hasattr(last_message, "content"):
+                            yield last_message.content
+                elif node_name == "error":
+                    error_message = node_output.get("error", "不明なエラー")
+                    yield f"\n[エラー: {error_message}]"
+                    break
+    except Exception as e:
+        logger.error(f"グラフ実行エラー: {e}")
+        raise
 ```
+
+**特徴**:
+
+- **チャンク粒度**: 粗い（50-500文字程度、ノード単位）
+- **バッファ管理**: 必要（ノード間でステートを管理）
+- **注意点**: ノードの識別が必要、ステートのサイズに注意
+- **利点**: ノードごとに異なる処理が可能
 
 ## パフォーマンス比較
 
