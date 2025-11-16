@@ -196,6 +196,8 @@
   },
   "active": "f8287c86ade7241d",
   "lastOpenFiles": [
+    "article/qiita/ai-services-comparison.md",
+    "memo/ai-services-comparison.md",
     "clippings/【完全比較】npm vs pnpm vs Yarn vs Bun、最強のパッケージマネージャーはどれだ？.md",
     "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
     "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
@@ -222,8 +224,6 @@
     "docs/1_operation",
     "docs/0_design/dir-structure.md",
     "docs/0_design",
-    "daily/2025-08-04.md",
-    "daily/2025-08-03.md",
     "daily",
     "docs/0_design/1_develop",
     "memo/Git",
