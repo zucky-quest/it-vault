@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください"
             }
+          },
+          {
+            "id": "3a4ecc8b31591429",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8287c86ade7241d",
+  "active": "3a4ecc8b31591429",
   "lastOpenFiles": [
     "memo/ai-services-comparison.md",
     "article/qiita/ai-services-comparison.md",
