@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8565005f6dcbfa99",
+        "id": "2c457db68a050d94",
         "type": "tabs",
         "children": [
           {
-            "id": "f8287c86ade7241d",
+            "id": "4661e75e78a0d294",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください"
-            }
-          },
-          {
-            "id": "3a4ecc8b31591429",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,12 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a4ecc8b31591429",
+  "active": "4661e75e78a0d294",
   "lastOpenFiles": [
+    "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
     "memo/ai-services-comparison.md",
     "article/qiita/ai-services-comparison.md",
     "clippings/【完全比較】npm vs pnpm vs Yarn vs Bun、最強のパッケージマネージャーはどれだ？.md",
-    "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
     "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
     "docs/1_operation/platform-selection.md",
     "clippings/PostmanとApidog：適切なAPI開発ツールの選択.md",
