@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c457db68a050d94",
+        "id": "6720ec1cfd5832df",
         "type": "tabs",
         "children": [
           {
-            "id": "4661e75e78a0d294",
+            "id": "d1c55eb45d017e2b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4661e75e78a0d294",
+  "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
     "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
     "memo/ai-services-comparison.md",
