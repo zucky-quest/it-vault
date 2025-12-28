@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO"
             }
-          },
-          {
-            "id": "70094bb35fd87bff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70094bb35fd87bff",
+  "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
     "clippings/AWS CDK を使用した Lambda 関数のデプロイ - AWS Lambda.md",
     "clippings/AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO.md",
