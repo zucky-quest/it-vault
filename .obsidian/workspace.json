@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO.md",
+                "file": "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO"
+              "title": "Flutterってどうなん？実際に商用アプリ開発で使ってみた感想"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
-    "clippings/AWS CDK を使用した Lambda 関数のデプロイ - AWS Lambda.md",
     "clippings/AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO.md",
+    "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
+    "clippings/AWS CDK を使用した Lambda 関数のデプロイ - AWS Lambda.md",
     "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
     "memo/ai-services-comparison.md",
     "article/qiita/ai-services-comparison.md",
@@ -221,7 +222,6 @@
     "clippings/【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選.md",
     "clippings/初心者がDockerfileを書くときに身につけたい5つの習慣.md",
     "clippings/生成AIをもっと使いこなすための便利API108選.md",
-    "memo/プロフィール作成.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
