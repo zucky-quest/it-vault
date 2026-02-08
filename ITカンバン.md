@@ -12,11 +12,13 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] [[プロフィール作成]]
+- [ ] Firebase 学習
+- [ ] Flutter 学習
 
 
 ## Complete
 
+- [ ] [[プロフィール作成]]
 
 
 
