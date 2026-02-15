@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "8477aa1bb21ad9b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
             "id": "d1c55eb45d017e2b",
             "type": "leaf",
             "state": {
@@ -229,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8477aa1bb21ad9b7",
+  "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
     "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
