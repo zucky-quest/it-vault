@@ -33,14 +33,20 @@
             "id": "d1c55eb45d017e2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
-                "mode": "source",
-                "source": false
+                "file": "ITカンバン.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ"
+              "icon": "lucide-trello",
+              "title": "ITカンバン"
             }
           }
         ],
@@ -219,8 +225,8 @@
   },
   "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
-    "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
+    "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
     "clippings/AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO.md",
     "clippings/AWS CDK を使用した Lambda 関数のデプロイ - AWS Lambda.md",
