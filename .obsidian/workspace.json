@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
+                "file": "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】"
+              "title": "【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ"
             }
           }
         ],
@@ -220,6 +220,7 @@
   "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
     "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
+    "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
     "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
     "clippings/AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO.md",
     "clippings/AWS CDK を使用した Lambda 関数のデプロイ - AWS Lambda.md",
@@ -244,7 +245,6 @@
     "ITカンバン.md",
     "memo/apidog.md",
     "clippings/【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選.md",
-    "clippings/初心者がDockerfileを書くときに身につけたい5つの習慣.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
