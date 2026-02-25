@@ -33,20 +33,14 @@
             "id": "d1c55eb45d017e2b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ITカンバン.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ITカンバン"
+              "icon": "lucide-file",
+              "title": "Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】"
             }
           }
         ],
@@ -225,6 +219,9 @@
   },
   "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
+    "clippings/Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある.md",
+    "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
+    "ITカンバン.md",
     "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
     "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
@@ -248,9 +245,6 @@
     "memo/Install git hook.md",
     "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
     "memo/開発生産性の教科書 memo.md",
-    "ITカンバン.md",
-    "memo/apidog.md",
-    "clippings/【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
