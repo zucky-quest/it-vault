@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
+                "file": "clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】"
+              "title": "Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する"
             }
           }
         ],
@@ -219,8 +219,9 @@
   },
   "active": "d1c55eb45d017e2b",
   "lastOpenFiles": [
-    "clippings/Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある.md",
     "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
+    "clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md",
+    "clippings/Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある.md",
     "ITカンバン.md",
     "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
     "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
@@ -244,7 +245,6 @@
     "memo/ooda.md",
     "memo/Install git hook.md",
     "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
-    "memo/開発生産性の教科書 memo.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
