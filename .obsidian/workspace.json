@@ -42,9 +42,21 @@
               "icon": "lucide-file",
               "title": "Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する"
             }
+          },
+          {
+            "id": "9f29cceb44cda53b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -217,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1c55eb45d017e2b",
+  "active": "9f29cceb44cda53b",
   "lastOpenFiles": [
     "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
     "clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md",
