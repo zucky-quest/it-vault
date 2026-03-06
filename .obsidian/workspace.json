@@ -42,21 +42,8 @@
               "icon": "lucide-file",
               "title": "Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する"
             }
-          },
-          {
-            "id": "9f29cceb44cda53b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.12.4"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f29cceb44cda53b",
+  "active": "f4279bd2e17218cb",
   "lastOpenFiles": [
-    "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
     "clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md",
+    "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
     "clippings/Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある.md",
     "ITカンバン.md",
     "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
