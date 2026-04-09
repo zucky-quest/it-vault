@@ -28,8 +28,21 @@
               "icon": "lucide-trello",
               "title": "ITカンバン"
             }
+          },
+          {
+            "id": "d649b726a1cced22",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4279bd2e17218cb",
+  "active": "d649b726a1cced22",
   "lastOpenFiles": [
     "clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md",
     "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
