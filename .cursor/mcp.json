@@ -1,17 +1,26 @@
 {
   "mcpServers": {
     "github": {
+      "type": "stdio",
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-github"],
       "env": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "${env:GITHUB_PERSONAL_ACCESS_TOKEN}"
-      }
+      },
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ]
     },
     "context7": {
+      "type": "stdio",
       "command": "npx",
-      "args": ["-y", "@upstash/context7-mcp@latest"]
+      "args": [
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ]
     },
     "serena": {
+      "type": "stdio",
       "command": "uvx",
       "args": [
         "--from",
@@ -22,8 +31,13 @@
       ]
     },
     "obsidian": {
+      "type": "stdio",
       "command": "npx",
-      "args": ["-y", "mcp-obsidian", "${env:OBSIDIAN_VAULT_PATH}"]
+      "args": [
+        "-y",
+        "mcp-obsidian",
+        "${env:OBSIDIAN_VAULT_PATH}"
+      ]
     }
   }
 }

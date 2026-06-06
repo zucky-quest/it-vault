@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description: Global rules
+globs: "**"
 ---
 
 # Global rules
@@ -99,7 +98,7 @@ alwaysApply: true
 
 ## 6 **守るべきルールのディレクトリ/ファイル**
 
-- .cursor/rules/dev-rules/*.mdc
+- .apm/instructions/*.instructions.md（APM のソース。編集後は `apm install` で各ツールへ反映）
 - docs/**/*md
 - 上記ファイルのルールを厳守してください。
 
