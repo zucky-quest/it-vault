@@ -1,6 +1,6 @@
 ---
-description: Global rules
-globs: "**"
+paths:
+  - "**"
 ---
 
 # Global rules

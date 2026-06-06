@@ -1,0 +1,51 @@
+name: my-vault
+version: 1.0.0
+description: APM project for my-vault
+author: Zucky
+# Which agent platforms to deploy to.
+# Resolution order: --target flag > this field > auto-detect from filesystem.
+# Accepted values: copilot, claude, cursor, opencode, codex, gemini, windsurf, all
+targets:
+  - copilot
+  - claude
+  - cursor
+  - agent-skills
+dependencies:
+  apm: []
+  mcp:
+    - name: github
+      registry: false
+      transport: stdio
+      command: npx
+      args:
+        - "-y"
+        - "@modelcontextprotocol/server-github"
+      env:
+        GITHUB_PERSONAL_ACCESS_TOKEN: "${env:GITHUB_PERSONAL_ACCESS_TOKEN}"
+    - name: context7
+      registry: false
+      transport: stdio
+      command: npx
+      args:
+        - "-y"
+        - "@upstash/context7-mcp@latest"
+    - name: serena
+      registry: false
+      transport: stdio
+      command: uvx
+      args:
+        - "--from"
+        - "git+https://github.com/oraios/serena"
+        - "serena-mcp-server"
+        - "--context"
+        - "ide-assistant"
+    - name: obsidian
+      registry: false
+      transport: stdio
+      command: npx
+      args:
+        - "-y"
+        - "mcp-obsidian"
+        - "${env:OBSIDIAN_VAULT_PATH}"
+includes: auto
+scripts: {}

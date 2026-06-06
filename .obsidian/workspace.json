@@ -30,19 +30,37 @@
             }
           },
           {
-            "id": "d649b726a1cced22",
+            "id": "b9d3e23357a9ffd6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Professional Scrum Master™ I (PSM I).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Professional Scrum Master™ I (PSM I)"
+            }
+          },
+          {
+            "id": "1b4cf9ef1a3b11b5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.12.7"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,12 +211,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,12 +232,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d649b726a1cced22",
+  "active": "1b4cf9ef1a3b11b5",
   "lastOpenFiles": [
+    "ITカンバン.md",
+    "apm.lock.yaml",
+    "apm_modules",
+    "apm.yml",
+    "my-vault/apm.yml",
+    "my-vault",
+    "Professional Scrum Master™ I (PSM I).md",
+    "clippings/Untitled.md",
+    "CSM（認定スクラムマスター）.md",
+    "プロジェクトマネージャ試験（PM）.md",
+    "応用情報技術者試験.md",
     "clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md",
     "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
     "clippings/Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある.md",
-    "ITカンバン.md",
     "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
     "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
@@ -237,24 +264,13 @@
     "article/qiita/apidog-guide.md",
     "docs/1_operation/article-rule.md",
     "article/qiita/issue.md",
-    "clippings/Untitled.md",
-    "article/qiita/pdcaooda.md",
-    "article/qiita/ooda.md",
-    "memo/ooda.md",
-    "memo/Install git hook.md",
-    "clippings/変化に強い「OODAループ」とは？「PDCAサイクル」との違い｜ものづくりの現場トピックス  キーエンス.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
     "docs/0_design/1_develop",
     "memo/Git",
-    "article/qiita",
-    "article/quiita",
-    "memo",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
-    "無題のファイル 2.canvas",
-    "article",
-    "capture"
+    "無題のファイル 2.canvas"
   ]
 }

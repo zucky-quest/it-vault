@@ -1,0 +1,61 @@
+lockfile_version: '1'
+generated_at: '2026-06-06T12:53:18.829193+00:00'
+dependencies: []
+mcp_servers:
+- context7
+- github
+- obsidian
+- serena
+mcp_configs:
+  context7:
+    name: context7
+    transport: stdio
+    args:
+    - -y
+    - '@upstash/context7-mcp@latest'
+    registry: false
+    command: npx
+  github:
+    name: github
+    transport: stdio
+    env:
+      GITHUB_PERSONAL_ACCESS_TOKEN: ${env:GITHUB_PERSONAL_ACCESS_TOKEN}
+    args:
+    - -y
+    - '@modelcontextprotocol/server-github'
+    registry: false
+    command: npx
+  obsidian:
+    name: obsidian
+    transport: stdio
+    args:
+    - -y
+    - mcp-obsidian
+    - ${env:OBSIDIAN_VAULT_PATH}
+    registry: false
+    command: npx
+  serena:
+    name: serena
+    transport: stdio
+    args:
+    - --from
+    - git+https://github.com/oraios/serena
+    - serena-mcp-server
+    - --context
+    - ide-assistant
+    registry: false
+    command: uvx
+local_deployed_files:
+- .claude/rules/globals.md
+- .claude/rules/qiita.md
+- .cursor/rules/globals.mdc
+- .cursor/rules/qiita.mdc
+- .github/instructions/globals.instructions.md
+- .github/instructions/qiita.instructions.md
+local_deployed_file_hashes:
+  .claude/rules/globals.md: sha256:8627aec97eebaefd1556c7827dc1673bc7a0d368fff6b329155ecea42a1bdef3
+  .claude/rules/qiita.md: sha256:f7197e5253fcb225b11d1a7023c534800eb581026abf0cebb6c91239fce3f90e
+  .cursor/rules/globals.mdc: sha256:3f833efb87494e07c353fa43b5e9279188b79905626528e7fbfe18263c453d70
+  .cursor/rules/qiita.mdc: sha256:da7aa284d98c35494236e8d0b76e6c2ef1d586795fc408a5bebad283e2a43092
+  .github/instructions/globals.instructions.md: sha256:8a8ab9bfedaa57ed1282d69c12246297ce1e2966e0c08321bc5597854a84c66f
+  .github/instructions/qiita.instructions.md: sha256:f82483a0e62a3659db59bcfb5135f76c7d793aeeec63d693e4f5063045ce9853

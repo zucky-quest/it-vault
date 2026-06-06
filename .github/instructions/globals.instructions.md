@@ -1,6 +1,5 @@
 ---
-description: Global rules
-globs: "**"
+applyTo: "**"
 ---
 
 # Global rules

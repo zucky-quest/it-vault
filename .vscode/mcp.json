@@ -1,15 +1,15 @@
 {
-  "mcpServers": {
+  "servers": {
     "github": {
       "type": "stdio",
       "command": "npx",
-      "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "${env:GITHUB_PERSONAL_ACCESS_TOKEN}"
-      },
       "args": [
         "-y",
         "@modelcontextprotocol/server-github"
-      ]
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${env:GITHUB_PERSONAL_ACCESS_TOKEN}"
+      }
     },
     "context7": {
       "type": "stdio",
@@ -39,5 +39,6 @@
         "${env:OBSIDIAN_VAULT_PATH}"
       ]
     }
-  }
+  },
+  "inputs": []
 }

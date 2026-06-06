@@ -1,8 +1,8 @@
 ---
-description: Qiita 用技術記事の基本ルール
-globs: article/qiita/*.md
-alwaysApply: false
+paths:
+  - "article/qiita/*.md"
 ---
+
 # Qiita 用技術記事の基本ルール
 
 1. 記事タイトルは簡潔かつ内容を端的に表現すること。
