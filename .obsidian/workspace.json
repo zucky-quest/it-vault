@@ -87,7 +87,8 @@
               "title": "Professional Scrum Master™ I (PSM I)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,13 +252,13 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "a31c40e99b4fdec7",
+  "active": "b9d3e23357a9ffd6",
   "lastOpenFiles": [
-    "Professional Scrum Master™ I (PSM I).md",
+    "README.md",
     "ITカンバン.md",
+    "Professional Scrum Master™ I (PSM I).md",
     "応用情報技術者試験.md",
     "プロジェクトマネージャ試験（PM）.md",
-    "README.md",
     "apm.lock.yaml",
     "apm_modules",
     "apm.yml",
