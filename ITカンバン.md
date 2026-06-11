@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## WIP
 
+- [ ] [Terraform HCP Terraform](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started)
 
 
 ## Complete
