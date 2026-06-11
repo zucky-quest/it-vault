@@ -14,7 +14,6 @@ kanban-plugin: board
 
 ## WIP
 
-- [ ] [Terraform AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
 
 
 ## Complete
@@ -25,6 +24,7 @@ kanban-plugin: board
 - [ ] 面白そう
 	https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24
 - [ ] [Terraform Docker](https://developer.hashicorp.com/terraform/tutorials/docker-get-started)
+- [ ] [Terraform AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
 - [ ] Flutter 学習
 
 
