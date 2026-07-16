@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Todo
 
+- [ ] Kaggle で機械学習を勉強する
+	https://www.kaggle.com/
 - [ ] [[応用情報技術者試験]]
 - [ ] [[プロジェクトマネージャ試験（PM）]]
 - [ ] jujutsu で Git 管理してみる
