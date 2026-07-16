@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] [[プロジェクトマネージャ試験（PM）]]
 - [ ] jujutsu で Git 管理してみる
 	https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide
+- [ ] 職務経歴書を Markdown にする
 
 
 ## WIP
