@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "article/1-rule.md",
+                "file": "article/qiita/mistake-prevention-with-scrum-and-ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-rule"
+              "title": "mistake-prevention-with-scrum-and-ai"
             }
           },
           {
@@ -245,8 +245,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "6a22e30c0898921d",
+  "active": "2dcfeea743027b3b",
   "lastOpenFiles": [
+    "article/qiita/0-index.md",
+    "article/0-index.md",
+    "article/1-rule.md",
     "job-change/self-pr.md",
     "job-change/resume-draft.md",
     "job-change/interview-notes.md",
@@ -260,9 +263,7 @@
     "memo/プロジェクトマネージャ試験（PM）.md",
     "memo/Professional Scrum Master™ I (PSM I).md",
     "memo/CSM（認定スクラムマスター）.md",
-    "article/1-rule.md",
     "article/qiita/mistake-prevention-with-scrum-and-ai.md",
-    "article/0-index.md",
     "応用情報技術者試験.md",
     "Professional Scrum Master™ I (PSM I).md",
     "README.md",
@@ -278,7 +279,6 @@
     "clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
     "clippings/Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある.md",
     "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
-    "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
