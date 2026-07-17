@@ -56,8 +56,23 @@
               "icon": "lucide-file",
               "title": "1-rule"
             }
+          },
+          {
+            "id": "3856724920c3fd34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clippings/ITWebエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ITWebエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,8 +245,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "6a22e30c0898921d",
+  "active": "3856724920c3fd34",
   "lastOpenFiles": [
+    "ITカンバン.md",
+    "clippings/ITWebエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出.md",
     "memo/応用情報技術者試験.md",
     "memo/プロジェクトマネージャ試験（PM）.md",
     "memo/Professional Scrum Master™ I (PSM I).md",
@@ -241,7 +258,6 @@
     "article/0-index.md",
     "応用情報技術者試験.md",
     "Professional Scrum Master™ I (PSM I).md",
-    "ITカンバン.md",
     "README.md",
     "プロジェクトマネージャ試験（PM）.md",
     "apm.lock.yaml",
@@ -262,7 +278,6 @@
     "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
     "memo/ai-services-comparison.md",
     "article/qiita/ai-services-comparison.md",
-    "clippings/【完全比較】npm vs pnpm vs Yarn vs Bun、最強のパッケージマネージャーはどれだ？.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
