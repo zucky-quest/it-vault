@@ -245,8 +245,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "2dcfeea743027b3b",
+  "active": "6a22e30c0898921d",
   "lastOpenFiles": [
+    "job-change/interview-notes.md",
+    "job-change/career-history.md",
+    "job-change/profile.md",
+    "job-change/README.md",
     "clippings/ITWebエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出.md",
     "job-change",
     "ITカンバン.md",
@@ -275,9 +279,6 @@
     "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
     "clippings/AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO.md",
-    "clippings/AWS CDK を使用した Lambda 関数のデプロイ - AWS Lambda.md",
-    "clippings/GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください.md",
-    "memo/ai-services-comparison.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
