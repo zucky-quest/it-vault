@@ -247,6 +247,8 @@
   },
   "active": "6a22e30c0898921d",
   "lastOpenFiles": [
+    "job-change/self-pr.md",
+    "job-change/resume-draft.md",
     "job-change/interview-notes.md",
     "job-change/career-history.md",
     "job-change/profile.md",
@@ -277,8 +279,6 @@
     "clippings/Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある.md",
     "clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
     "clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
-    "clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
-    "clippings/AWS CDKのLambda Pythonがuvをサポートしました  DevelopersIO.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
