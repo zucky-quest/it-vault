@@ -230,8 +230,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "f4279bd2e17218cb",
+  "active": "6a22e30c0898921d",
   "lastOpenFiles": [
+    "memo/応用情報技術者試験.md",
+    "memo/プロジェクトマネージャ試験（PM）.md",
+    "memo/Professional Scrum Master™ I (PSM I).md",
+    "memo/CSM（認定スクラムマスター）.md",
     "article/1-rule.md",
     "article/qiita/mistake-prevention-with-scrum-and-ai.md",
     "article/0-index.md",
@@ -259,10 +263,6 @@
     "memo/ai-services-comparison.md",
     "article/qiita/ai-services-comparison.md",
     "clippings/【完全比較】npm vs pnpm vs Yarn vs Bun、最強のパッケージマネージャーはどれだ？.md",
-    "clippings/OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips.md",
-    "docs/1_operation/platform-selection.md",
-    "clippings/PostmanとApidog：適切なAPI開発ツールの選択.md",
-    "article/qiita/problem-and-issue.md",
     "docs/1_operation",
     "docs/0_design",
     "daily",
