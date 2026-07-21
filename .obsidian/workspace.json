@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "article/qiita/communication-skills-for-scrum-and-pr-review.md",
+                "file": "article/qiita/mistake-prevention-with-scrum-and-ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "communication-skills-for-scrum-and-pr-review"
+              "title": "mistake-prevention-with-scrum-and-ai"
             }
           },
           {
@@ -245,10 +245,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "2dcfeea743027b3b",
+  "active": "6a22e30c0898921d",
   "lastOpenFiles": [
-    "article/qiita/mistake-prevention-with-scrum-and-ai.md",
     "article/qiita/communication-skills-for-scrum-and-pr-review.md",
+    "article/qiita/mistake-prevention-with-scrum-and-ai.md",
     "article/qiita/0-index.md",
     "article/0-index.md",
     "article/1-rule.md",
