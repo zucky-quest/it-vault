@@ -9,5 +9,5 @@
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
   },
-  "cSpell.words": ["apidog", "Laravel", "OODA", "PDCA", "Qiita", "Zenn"]
+  "cSpell.words": ["apidog", "Dify", "Laravel", "OODA", "PDCA", "Qiita", "Zenn"]
 }
