@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] Kaggle で機械学習を勉強する
-	https://www.kaggle.com/
 - [ ] [[応用情報技術者試験]]
 - [ ] [[プロジェクトマネージャ試験（PM）]]
 - [ ] jujutsu で Git 管理してみる
@@ -16,11 +14,13 @@ kanban-plugin: board
 
 ## WIP
 
-- [ ] 職務経歴書を Markdown にする
+- [ ] Kaggle で機械学習を勉強する
+	https://www.kaggle.com/
 
 
 ## Complete
 
+- [ ] 職務経歴書を Markdown にする
 - [ ] [[プロフィール作成]]
 - [ ] [[Professional Scrum Master™ I (PSM I)]]
 - [ ] Firebase 学習
