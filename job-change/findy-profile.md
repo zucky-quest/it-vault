@@ -22,15 +22,15 @@ HRデータを機械学習により分析し、傾向を予測するアプリの
 
 ### B2B向けAI支援サービス
 
-| 項目 | 入力内容 |
-| --- | --- |
-| チーム規模 | 1〜10人 |
-| 役割 | メンバー |
-| 職種 | フルスタックエンジニア |
-| マネジメント職種 | スクラムマスター |
-| スキル | Python、Google Cloud、AWS Lambda、DynamoDB、Flutter、Tailwind CSS、AWS CodePipeline、FastAPI、API Gateway、AWS CDK、CloudWatch、S3、Glue、Athena、AIエージェント、MCP、Claude Code |
+| 項目       | 入力内容                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| チーム規模    | 11〜20人                                                                                                                                                       |
+| 役割       | メンバー                                                                                                                                                         |
+| 職種       | フルスタックエンジニア                                                                                                                                                  |
+| マネジメント職種 | スクラムマスター                                                                                                                                                     |
+| スキル      | Python、Google Cloud、AWS Lambda、DynamoDB、Flutter、Tailwind CSS、AWS CodePipeline、FastAPI、API Gateway、AWS CDK、CloudWatch、S3、Glue、Athena、AIエージェント、MCP、Claude Code |
 
-B2B向けAI支援サービスの開発に携わりました。FlutterやTailwind CSSによるフロントエンド、FastAPI・FastMCPによるバックエンド、AWS CDKによるインフラ整備を担当しました。マイクロサービスアーキテクチャを意識したサービス連携や、CloudWatch・S3・Glue・Athenaを用いた構造化ログの運用にも関与しました。CI/CDの属人化解消と自動化、チーム横断のAPIプラットフォーム標準化、業務で利用するAIエージェントのスキルやMCPサーバーの導入も推進しました。スクラムマスターとして、スケジュール管理やチームの継続的な改善も支援しました。
+B2B向けAI支援サービスの開発に携わりました。Flutterによるフロントエンド、FastAPI・FastMCPによるバックエンド、AWS CDKによるインフラ整備を担当しました。マイクロサービスアーキテクチャを意識したサービス連携や、CloudWatch・S3・Glue・Athenaを用いた構造化ログの運用にも関与しました。CI/CDの属人化解消と自動化、チーム横断のAPIプラットフォーム標準化、業務で利用するAIエージェントのスキルやMCPサーバーの導入も推進しました。スクラムマスターとして、スケジュール管理やチームの継続的な改善も支援しました。
 
 ### HRサービス・人事労務領域
 
