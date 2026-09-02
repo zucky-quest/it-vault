@@ -43,8 +43,7 @@
               "title": "backup-code"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +218,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "4fcd0baae9ac6e39",
+  "active": "f4279bd2e17218cb",
   "lastOpenFiles": [
+    "private/perplexity/backup-code.md",
     "private/perplexity",
     "ITカンバン.md",
-    "private/perplexity/backup-code.md",
     "private",
     "job-change/findy-profile.md",
     "clippings/ITWebエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出.md",
@@ -256,7 +255,6 @@
     "CSM（認定スクラムマスター）.md",
     "docs/1_operation",
     "docs/0_design",
-    "daily",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"
