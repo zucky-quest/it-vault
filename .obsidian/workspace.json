@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "c242c0c1ad926e26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.13.7"
+            }
+          },
+          {
             "id": "4fcd0baae9ac6e39",
             "type": "leaf",
             "state": {
@@ -42,8 +54,24 @@
               "icon": "lucide-file",
               "title": "backup-code"
             }
+          },
+          {
+            "id": "f9145e1680e04c42",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,11 +246,11 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "f4279bd2e17218cb",
+  "active": "f9145e1680e04c42",
   "lastOpenFiles": [
+    "ITカンバン.md",
     "private/perplexity/backup-code.md",
     "private/perplexity",
-    "ITカンバン.md",
     "private",
     "job-change/findy-profile.md",
     "clippings/ITWebエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出.md",
