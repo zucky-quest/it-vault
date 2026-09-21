@@ -221,6 +221,11 @@
   },
   "active": "45adbbbd04abe3bd",
   "lastOpenFiles": [
+    "docs/1-operation/version-manage.md",
+    "docs/1-operation/platform-selection.md",
+    "docs/1-operation",
+    "docs/0-design/dir-structure.md",
+    "docs/0-design",
     "00_Inbox",
     "kanban.md",
     "daily/2026/09/20.md",
@@ -252,11 +257,6 @@
     "job-change",
     "memo/応用情報技術者試験.md",
     "memo/プロジェクトマネージャ試験（PM）.md",
-    "memo/Professional Scrum Master™ I (PSM I).md",
-    "memo/CSM（認定スクラムマスター）.md",
-    "apm.lock.yaml",
-    "apm_modules",
-    "apm.yml",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"
