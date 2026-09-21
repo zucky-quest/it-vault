@@ -1,5 +1,5 @@
 ---
-description: Qiita 用技術記事の基本ルール
+description: "Qiita \u7528\u6280\u8853\u8a18\u4e8b\u306e\u57fa\u672c\u30eb\u30fc\u30eb"
 globs: "article/qiita/*.md"
 ---
 

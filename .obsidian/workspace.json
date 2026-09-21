@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-journal/2025/08/03.md",
+                "file": "daily/2025/08/03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,6 +196,8 @@
   },
   "active": "45adbbbd04abe3bd",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "Makefile",
     "01-journal/2026/09/20.md",
     "01-journal/2026/09",
     "01-journal/2026",
@@ -225,13 +227,11 @@
     "04-clippings/FlutterとReact Nativeはどっちがおすすめ？【違いを徹底比較】.md",
     "04-clippings/Flutterってどうなん？実際に商用アプリ開発で使ってみた感想.md",
     "04-clippings/Cookieだけじゃない！Webの裏側で“あなたの行動”はこう見られている.md",
-    "04-clippings/Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】.md",
     "03-work/qiita",
     "02-projects/study-notes",
     "02-projects/job-change",
-    "01-journal/2026/09",
-    "01-journal/2025/08",
-    "01-journal/2025",
+    "01-journal/daily/2026/09",
+    "01-journal/daily/2025/08",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"

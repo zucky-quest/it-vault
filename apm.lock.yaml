@@ -1,6 +1,169 @@
 lockfile_version: '1'
-generated_at: '2026-06-06T12:53:18.829193+00:00'
+generated_at: '2026-09-21T08:32:13.956293+00:00'
 dependencies: []
+deployments:
+- kind: project-relative
+  target: claude
+  value: .claude/rules/globals.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:8627aec97eebaefd1556c7827dc1673bc7a0d368fff6b329155ecea42a1bdef3
+- kind: project-relative
+  target: claude
+  value: .claude/rules/qiita.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:f7197e5253fcb225b11d1a7023c534800eb581026abf0cebb6c91239fce3f90e
+- kind: project-relative
+  target: copilot
+  value: .github/instructions/globals.instructions.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:8a8ab9bfedaa57ed1282d69c12246297ce1e2966e0c08321bc5597854a84c66f
+- kind: project-relative
+  target: copilot
+  value: .github/instructions/qiita.instructions.md
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:f82483a0e62a3659db59bcfb5135f76c7d793aeeec63d693e4f5063045ce9853
+- kind: project-relative
+  target: cursor
+  value: .cursor/rules/globals.mdc
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:6ecd7ad10894dd3201d6a6c35f9bc3666aa0a066d95696dbb6f15d9edf523bc3
+- kind: project-relative
+  target: cursor
+  value: .cursor/rules/qiita.mdc
+  runtime: null
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: sha256:9603334af0348c5d9085817f13a99e9d63743123c809405f16fa1fc23164a5f9
+- kind: uri
+  target: mcp
+  value: context7
+  runtime: claude
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: github
+  runtime: claude
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: obsidian
+  runtime: claude
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: serena
+  runtime: claude
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: context7
+  runtime: copilot
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: github
+  runtime: copilot
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: obsidian
+  runtime: copilot
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: serena
+  runtime: copilot
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: context7
+  runtime: cursor
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: github
+  runtime: cursor
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: obsidian
+  runtime: cursor
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
+- kind: uri
+  target: mcp
+  value: serena
+  runtime: cursor
+  scope: project
+  owners:
+  - .
+  active_owner: .
+  content_hash: null
 mcp_servers:
 - context7
 - github
@@ -45,6 +208,22 @@ mcp_configs:
     - ide-assistant
     registry: false
     command: uvx
+mcp_target_servers:
+  claude:
+  - context7
+  - github
+  - obsidian
+  - serena
+  copilot:
+  - context7
+  - github
+  - obsidian
+  - serena
+  cursor:
+  - context7
+  - github
+  - obsidian
+  - serena
 local_deployed_files:
 - .claude/rules/globals.md
 - .claude/rules/qiita.md
@@ -55,7 +234,7 @@ local_deployed_files:
 local_deployed_file_hashes:
   .claude/rules/globals.md: sha256:8627aec97eebaefd1556c7827dc1673bc7a0d368fff6b329155ecea42a1bdef3
   .claude/rules/qiita.md: sha256:f7197e5253fcb225b11d1a7023c534800eb581026abf0cebb6c91239fce3f90e
-  .cursor/rules/globals.mdc: sha256:3f833efb87494e07c353fa43b5e9279188b79905626528e7fbfe18263c453d70
-  .cursor/rules/qiita.mdc: sha256:da7aa284d98c35494236e8d0b76e6c2ef1d586795fc408a5bebad283e2a43092
+  .cursor/rules/globals.mdc: sha256:6ecd7ad10894dd3201d6a6c35f9bc3666aa0a066d95696dbb6f15d9edf523bc3
+  .cursor/rules/qiita.mdc: sha256:9603334af0348c5d9085817f13a99e9d63743123c809405f16fa1fc23164a5f9
   .github/instructions/globals.instructions.md: sha256:8a8ab9bfedaa57ed1282d69c12246297ce1e2966e0c08321bc5597854a84c66f
   .github/instructions/qiita.instructions.md: sha256:f82483a0e62a3659db59bcfb5135f76c7d793aeeec63d693e4f5063045ce9853

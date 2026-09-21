@@ -1,0 +1,59 @@
+{
+  "mcpServers": {
+    "github": {
+      "type": "local",
+      "tools": [
+        "*"
+      ],
+      "id": "",
+      "command": "npx",
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PERSONAL_ACCESS_TOKEN}"
+      },
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ]
+    },
+    "context7": {
+      "type": "local",
+      "tools": [
+        "*"
+      ],
+      "id": "",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ]
+    },
+    "serena": {
+      "type": "local",
+      "tools": [
+        "*"
+      ],
+      "id": "",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/oraios/serena",
+        "serena-mcp-server",
+        "--context",
+        "ide-assistant"
+      ]
+    },
+    "obsidian": {
+      "type": "local",
+      "tools": [
+        "*"
+      ],
+      "id": "",
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-obsidian",
+        "${OBSIDIAN_VAULT_PATH}"
+      ]
+    }
+  }
+}
