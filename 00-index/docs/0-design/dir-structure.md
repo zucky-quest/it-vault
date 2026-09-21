@@ -10,12 +10,13 @@
 ├── .vscode/ (ワークスペース設定・Copilot MCP)
 ├── apm.yml (APM マニフェスト)
 ├── apm.lock.yaml (APM ロックファイル)
-├── article/ (記事)/
+├── 00-index/ (目次・運用ドキュメント)
+├── 01-journal/ (日記)
+├── 02-projects/ (資格学習・転職)
+├── 03-work/ (テックブログなどの成果物)/
 │   └── qiita/
-├── clippings/ (ウェブクリップ)
-├── daily/ (日記)
-├── docs/ (仕様書)
-└── memo/ (雑記)
+├── 04-clippings/ (ウェブクリップ)
+└── 05-assets/ (画像などの添付ファイル)
 ```
 
 - [Edit](https://tree.nathanfriend.com/)
