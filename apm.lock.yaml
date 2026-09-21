@@ -1,5 +1,5 @@
 lockfile_version: '1'
-generated_at: '2026-09-21T08:32:13.956293+00:00'
+generated_at: '2026-09-21T08:49:17.965648+00:00'
 dependencies: []
 deployments:
 - kind: project-relative
@@ -10,7 +10,7 @@ deployments:
   owners:
   - .
   active_owner: .
-  content_hash: sha256:8627aec97eebaefd1556c7827dc1673bc7a0d368fff6b329155ecea42a1bdef3
+  content_hash: sha256:6b312d2ba47fe395aa514ac1d787bb9bf801f6ccae71511605522361ca112c91
 - kind: project-relative
   target: claude
   value: .claude/rules/qiita.md
@@ -28,7 +28,7 @@ deployments:
   owners:
   - .
   active_owner: .
-  content_hash: sha256:8a8ab9bfedaa57ed1282d69c12246297ce1e2966e0c08321bc5597854a84c66f
+  content_hash: sha256:c1c542ad487b90cec6dddf5961a6aad10410936d3b74c3492af93a9ab9077a57
 - kind: project-relative
   target: copilot
   value: .github/instructions/qiita.instructions.md
@@ -46,7 +46,7 @@ deployments:
   owners:
   - .
   active_owner: .
-  content_hash: sha256:6ecd7ad10894dd3201d6a6c35f9bc3666aa0a066d95696dbb6f15d9edf523bc3
+  content_hash: sha256:a2155b7747aaa141bf615543577515641bd9cae643eab8542261cbb0bd460e81
 - kind: project-relative
   target: cursor
   value: .cursor/rules/qiita.mdc
@@ -232,9 +232,9 @@ local_deployed_files:
 - .github/instructions/globals.instructions.md
 - .github/instructions/qiita.instructions.md
 local_deployed_file_hashes:
-  .claude/rules/globals.md: sha256:8627aec97eebaefd1556c7827dc1673bc7a0d368fff6b329155ecea42a1bdef3
+  .claude/rules/globals.md: sha256:6b312d2ba47fe395aa514ac1d787bb9bf801f6ccae71511605522361ca112c91
   .claude/rules/qiita.md: sha256:f7197e5253fcb225b11d1a7023c534800eb581026abf0cebb6c91239fce3f90e
-  .cursor/rules/globals.mdc: sha256:6ecd7ad10894dd3201d6a6c35f9bc3666aa0a066d95696dbb6f15d9edf523bc3
+  .cursor/rules/globals.mdc: sha256:a2155b7747aaa141bf615543577515641bd9cae643eab8542261cbb0bd460e81
   .cursor/rules/qiita.mdc: sha256:9603334af0348c5d9085817f13a99e9d63743123c809405f16fa1fc23164a5f9
-  .github/instructions/globals.instructions.md: sha256:8a8ab9bfedaa57ed1282d69c12246297ce1e2966e0c08321bc5597854a84c66f
+  .github/instructions/globals.instructions.md: sha256:c1c542ad487b90cec6dddf5961a6aad10410936d3b74c3492af93a9ab9077a57
   .github/instructions/qiita.instructions.md: sha256:f82483a0e62a3659db59bcfb5135f76c7d793aeeec63d693e4f5063045ce9853

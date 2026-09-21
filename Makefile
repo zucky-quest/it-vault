@@ -23,11 +23,6 @@ apm-install:  # apm.yml/.apm を各ツールへ配備（MCP/skills/rules + apm.l
 apm-compile:  # .apm/instructions から AGENTS.md を生成
 	$(APM_BIN) compile -t codex --no-links --single-agents
 
-skills-doc:  # .apm/skills の frontmatter から docs/develop/skills.md を生成
-	$(UV_BIN) run python scripts/generate_skills_doc.py
-
-skills-doc-check:  # docs/develop/skills.md が .apm/skills と一致するか検査（再生成しない）
-	$(UV_BIN) run python scripts/generate_skills_doc.py --check
 
 apm-sync: apm-install apm-compile skills-doc  # AI 設定を全再生成（.apm / apm.yml を編集したら実行）
 

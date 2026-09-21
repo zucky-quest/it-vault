@@ -211,6 +211,8 @@
   },
   "active": "57b253c2c2488538",
   "lastOpenFiles": [
+    "00-index/0-design/02-ai-agents.md",
+    "00-index/0-design/00-index.md",
     "00-index/inbox/0-overview.md",
     "00-index/1-operation/version-manage.md",
     "00-index/1-operation",
@@ -243,8 +245,6 @@
     "04-clippings/【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ.md",
     "04-clippings/【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選.md",
     "04-clippings/The Agentic Development Environment.md",
-    "04-clippings/PostmanとApidog：適切なAPI開発ツールの選択.md",
-    "04-clippings/Playwright MCP を使ってAIにブラウザ操作をさせてみる（GitHub Copilot  Cline 環境構築手順付）.md",
     "03-work/blog/qiita",
     "02-projects/study-notes",
     "無題のファイル.canvas",
