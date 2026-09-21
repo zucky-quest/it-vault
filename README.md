@@ -11,7 +11,7 @@
 
 ## ディレクトリ構成
 
-[ディレクトリ構造の設計書](./00-index/docs/0-design/dir-structure.md) を参照してください。
+[ディレクトリ構造の設計書](./00-index/0-design/dir-structure.md) を参照してください。
 
 ## 主な用途
 
