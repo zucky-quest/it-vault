@@ -34,7 +34,7 @@ jobs:
             "https://github.com/betterleaks/betterleaks/releases/download/v${BETTERLEAKS_VERSION}/checksums.txt"
           grep " ${archive}$" checksums.txt | sha256sum --check --strict
           tar --extract --gzip --file "${archive}" betterleaks
-          ./betterleaks git . --redact --no-banner --platform github
+          ./betterleaks git . --redact --no-banner --platform github --config .betterleaks.toml
 
   renovate:
     name: Run Renovate

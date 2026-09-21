@@ -1,0 +1,6 @@
+prefilter = '''
+filter.matchesAny(attributes["path"], [
+  `^\.obsidian/plugins/obsidian-excalidraw-plugin/main\.js$`,
+  `^clippings/AWS CDK を使用した Lambda 関数のデプロイ - AWS Lambda\.md$`
+])
+'''
