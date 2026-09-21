@@ -7,8 +7,6 @@ kanban-plugin: board
 ## Todo
 
 - [ ] Kaggle learn
-	https://www.kaggle.com/learn/intermediate-machine-learning
-- [ ] Kaggle learn
 	https://www.kaggle.com/learn/feature-engineering
 - [ ] [[応用情報技術者試験]]
 - [ ] [[プロジェクトマネージャ試験（PM）]]
@@ -19,12 +17,14 @@ kanban-plugin: board
 ## WIP
 
 - [ ] Kaggle learn
-	https://www.kaggle.com/learn/machine-learning-explainability
+	https://www.kaggle.com/learn/intermediate-machine-learning
 
 
 ## Complete
 
 - [ ] 職務経歴書を Markdown にする
+- [ ] Kaggle learn
+	https://www.kaggle.com/learn/machine-learning-explainability
 - [ ] Kaggle で機械学習を勉強する
 	https://www.kaggle.com/
 - [ ] [[プロフィール作成]]

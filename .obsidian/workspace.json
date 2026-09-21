@@ -8,20 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4279bd2e17218cb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "新規タブ"
-            }
-          },
-          {
             "id": "57b253c2c2488538",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -29,8 +18,31 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "b779bb40cd5d3d33",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00-index/kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "kanban"
             }
           }
         ],
@@ -209,14 +221,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57b253c2c2488538",
+  "active": "b779bb40cd5d3d33",
   "lastOpenFiles": [
+    "00-index/0-design/dir-structure.md",
+    "README.md",
     "00-index/0-design/02-ai-agents.md",
     "00-index/0-design/00-index.md",
     "00-index/inbox/0-overview.md",
     "00-index/1-operation/version-manage.md",
     "00-index/1-operation",
-    "00-index/0-design/dir-structure.md",
     "00-index/0-design",
     "03-work/blog/platform-selection.md",
     "03-work/blog/qiita/platform-selection.md",
@@ -224,7 +237,6 @@
     "00-index/kanban.md",
     "03-work/blog/1-rule.md",
     "03-work/blog",
-    "README.md",
     "AGENTS.md",
     "Makefile",
     "01-journal/2026/09/20.md",
