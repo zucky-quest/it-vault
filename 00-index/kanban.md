@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] Kaggle learn
 	https://www.kaggle.com/learn/feature-engineering
+- [ ] NewRelic tutorial
+	https://docs.newrelic.com/jp/docs/new-relic-solutions/tutorial-landing-page/
 - [ ] [[応用情報技術者試験]]
 - [ ] [[プロジェクトマネージャ試験（PM）]]
 - [ ] jujutsu で Git 管理してみる
