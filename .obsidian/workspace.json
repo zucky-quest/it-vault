@@ -221,6 +221,7 @@
   },
   "active": "45adbbbd04abe3bd",
   "lastOpenFiles": [
+    "renovate.json",
     "docs/1-operation/version-manage.md",
     "docs/1-operation/platform-selection.md",
     "docs/1-operation",
@@ -256,7 +257,6 @@
     "job-change/README.md",
     "job-change",
     "memo/応用情報技術者試験.md",
-    "memo/プロジェクトマネージャ試験（PM）.md",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"

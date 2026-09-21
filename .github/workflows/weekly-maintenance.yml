@@ -1,4 +1,4 @@
-name: Scan for secrets
+name: Weekly maintenance
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: Check out repository history
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
