@@ -4,7 +4,7 @@
 
 ## 記事一覧
 
-1. [[ai-services-comparison]] - LangChainとLangGraphを使い分ける - 3つのAIサービス実装の比較と選択ガイド
+1. [[03-work/blog/qiita/ai-services-comparison]] - LangChainとLangGraphを使い分ける - 3つのAIサービス実装の比較と選択ガイド
 2. [[apidog-guide]] - API開発を効率化するApidogの使い方とPostmanとの違い
 3. [[auto-source-review]] - 心理的安全性と生産性を両立する自動ソースレビュー導入（CodeRabbit活用）
 4. [[communication-skills-for-scrum-and-pr-review]] - 【心理的安全性】『人は話し方が9割』に学ぶ、スクラム開発とPRレビューの「伝え方」スキル化

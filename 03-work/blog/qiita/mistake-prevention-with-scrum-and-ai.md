@@ -289,4 +289,4 @@ AIレビューと CODEOWNERS で手戻りが減り、レトロの改善が仕組
   - ※ 本記事の「ダブルチェック三原則」「ミスの4分類」「赤福」「メールの章」は同氏の失敗学関連書籍で紹介されている考え方を筆者が再構成したものです。正確な記述は書籍をご参照ください。
 - [About code owners - GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositories-settings-and-features/customizing-your-repository/about-code-owners)
 - [スクラムガイド（日本語）](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)
-- [心理的安全性と生産性を両立する自動ソースレビュー導入（CodeRabbit活用）](./auto-source-review.md)
+- [心理的安全性と生産性を両立する自動ソースレビュー導入（CodeRabbit活用）](auto-source-review.md)
