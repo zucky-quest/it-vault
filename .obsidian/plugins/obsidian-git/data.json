@@ -7,8 +7,10 @@
   "autoPushInterval": 5,
   "autoPullInterval": 5,
   "autoPullOnBoot": false,
+  "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
+  "squashCommitsBeforePush": false,
   "disablePopups": false,
   "showErrorNotices": true,
   "disablePopupsForNoChanges": false,
@@ -16,6 +18,7 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
+  "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
@@ -33,6 +36,13 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "diffStyle": "split",
+  "diffTimeout": 50,
+  "autoStageOnEmptyIndex": true,
+  "hunks": {
+    "showSigns": false,
+    "hunkCommands": false,
+    "statusBar": "disabled"
+  },
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
