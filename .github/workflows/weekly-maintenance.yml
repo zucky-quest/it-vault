@@ -22,6 +22,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Configure Git safe directory
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
       - name: Scan repository with Betterleaks
         uses: docker://ghcr.io/betterleaks/betterleaks:latest
         with:
