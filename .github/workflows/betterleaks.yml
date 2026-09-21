@@ -1,0 +1,26 @@
+name: Scan for secrets
+
+on:
+  schedule:
+    # GitHub Actions cron is UTC: Saturday 09:30 JST is Saturday 00:30 UTC.
+    - cron: "30 0 * * 6"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  betterleaks:
+    name: Run Betterleaks
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository history
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Scan repository with Betterleaks
+        uses: docker://ghcr.io/betterleaks/betterleaks:latest
+        with:
+          args: git /github/workspace -v
