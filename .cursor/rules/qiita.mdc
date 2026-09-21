@@ -1,5 +1,5 @@
 ---
-description: "Qiita \u7528\u6280\u8853\u8a18\u4e8b\u306e\u57fa\u672c\u30eb\u30fc\u30eb"
+description: "Formatting and quality rules for Qiita article notes"
 globs: "article/qiita/*.md"
 ---
 

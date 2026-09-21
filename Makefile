@@ -39,10 +39,3 @@ apm-verify:  # 生成物が .apm/apm.yml と整合しているか検査（CI と
 
 apm-orphan-check:  # 生成物に供給源が無い orphan（例: ソース無しの skill）を検出
 	$(UV_BIN) run python scripts/check_apm_orphans.py
-
-# =============================================================================
-# スキル評価
-# =============================================================================
-# Eval / Benchmark（pass 率の測定）は skill-creator とサブエージェントに依存するため
-# Claude Code 上でのみ実行できる（/evaluating-skills）。以下はランタイムを問わず
-# 実行できる静的ゲートで、CI でも回す。詳細は docs/develop/skill-evaluation.md。

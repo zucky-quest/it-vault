@@ -1,4 +1,5 @@
 ---
+description: "Global project rules and workflow requirements for the vault"
 applyTo: "**"
 ---
 
@@ -121,7 +122,7 @@ applyTo: "**"
 
 ## ディレクトリ構成
 
-[dir-structure.md](mdc:docs/dir-structure.md)
+[dir-structure.md](mdc:00-index/0-design/dir-structure.md)
 
 ---
 

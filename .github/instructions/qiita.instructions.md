@@ -1,4 +1,5 @@
 ---
+description: "Formatting and quality rules for Qiita article notes"
 applyTo: "article/qiita/*.md"
 ---
 
