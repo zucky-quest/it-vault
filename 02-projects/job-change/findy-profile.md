@@ -21,7 +21,7 @@ Findyのプロフィール欄・職歴欄へ転記するための原稿です。
 
 ### 代替案（技術スタック重視・209文字）
 
-HR系SaaSのフルスタックエンジニア。jinjerにて人事労務・タレント・AI退職予測（LightGBM）・LLMチャットを設計開発運用。React/TypeScript、Python/FastAPI、Laravel、Go、AWS CDK/Terraform、Flutter。SM兼リーダーとしてスクラム改善、AIエージェント/MCP標準化、CI/CD・Apidog導入、Android配信自動化で開発生産性を向上。
+HR系SaaSのフルスタックエンジニア。jinjerにて人事労務・タレント・AI退職予測（LightGBM）・LLMチャットを設計開発運用。React/TypeScript、Python/FastAPI、Laravel、Go、AWS CDK/Terraform、Flutter。SM兼リーダーとしてスクラム改善、AIエージェント/MCP標準化、CI/CD・Apidog導入、IOS/Android配信自動化で開発生産性を向上。
 
 ---
 
