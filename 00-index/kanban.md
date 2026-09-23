@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## Todo
 
-- [ ] Kaggle learn
-	https://www.kaggle.com/learn/feature-engineering
-- [ ] NewRelic tutorial
-	https://docs.newrelic.com/jp/docs/new-relic-solutions/tutorial-landing-page/
 - [ ] [[応用情報技術者試験]]
 - [ ] [[プロジェクトマネージャ試験（PM）]]
 - [ ] jujutsu で Git 管理してみる
@@ -18,12 +14,16 @@ kanban-plugin: board
 
 ## WIP
 
-- [ ] Kaggle learn
-	https://www.kaggle.com/learn/intermediate-machine-learning
+- [ ] NewRelic tutorial
+	https://docs.newrelic.com/jp/docs/new-relic-solutions/tutorial-landing-page/
 
 
 ## Complete
 
+- [ ] Kaggle learn
+	https://www.kaggle.com/learn/feature-engineering
+- [ ] Kaggle learn
+	https://www.kaggle.com/learn/intermediate-machine-learning
 - [ ] 職務経歴書を Markdown にする
 - [ ] Kaggle learn
 	https://www.kaggle.com/learn/machine-learning-explainability
