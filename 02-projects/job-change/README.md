@@ -10,9 +10,10 @@
 
 ## 推奨ファイル構成
 
-- `profile.md` - 基本プロフィール・強み・転職希望軸
-- `career-history.md` - 職務経歴・実績・技術スタック
-- `resume-draft.md` - 職務経歴書向けの本文
-- `self-pr.md` - 転職サイト用の自己PR文
-- `interview-notes.md` - 面接メモ・質問対策
+- [[profile]] - 基本プロフィール・強み・転職希望軸
+- [[job-change-criteria]] - 転職先のMust/Want・候補企業の比較方法
+- [[career-history]] - 職務経歴・実績・技術スタック
+- [[resume-draft]] - 職務経歴書向けの本文
+- [[self-pr]] - 転職サイト用の自己PR文
+- [[interview-notes]] - 面接メモ・質問対策
 - `applications/` - 応募企業ごとのメモ
