@@ -16,4 +16,4 @@
 - [[resume-draft]] - 職務経歴書向けの本文
 - [[self-pr]] - 転職サイト用の自己PR文
 - [[interview-notes]] - 面接メモ・質問対策
-- `applications/` - 応募企業ごとのメモ
+- [[]] - 応募企業ごとのメモ

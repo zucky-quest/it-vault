@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-projects/job-change/job-change-criteria.md",
+                "file": "02-projects/job-change/0-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "job-change-criteria"
+              "title": "0-index"
             }
           }
         ],
@@ -249,16 +249,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "347e724f9fcd7da7",
+  "active": "45adbbbd04abe3bd",
   "lastOpenFiles": [
+    "02-projects/job-change/companies",
     "02-projects/job-change/interview-notes.md",
+    "02-projects/job-change/findy-profile.md",
+    "02-projects/job-change/career-history.md",
+    "02-projects/job-change/self-pr.md",
+    "02-projects/job-change/job-change-criteria.md",
     "02-projects/job-change/profile.md",
     "02-projects/job-change/resume-draft.md",
-    "02-projects/job-change/job-change-criteria.md",
-    "02-projects/job-change/README.md",
-    "02-projects/job-change/self-pr.md",
-    "02-projects/job-change/career-history.md",
-    "02-projects/job-change/findy-profile.md",
+    "02-projects/job-change/0-index.md",
     "01-journal/2026/09/29.md",
     "05-assets/Pasted image 20260929080209.png",
     "02-projects/job-change/無題のファイル.md",
@@ -282,7 +283,6 @@
     "00-index/0-index.md",
     "03-work/blog/1-rule.md",
     "03-work/blog",
-    "AGENTS.md",
     "Makefile",
     "01-journal/2026/09",
     "01-journal/2026",
