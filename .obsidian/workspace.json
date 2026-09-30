@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-projects/job-change/companies/0-index.md",
+                "file": "04-clippings/元ヤフーエンジニア社長が考える、AI時代の採用基準.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-index"
+              "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準"
             }
           }
         ],
@@ -237,8 +237,9 @@
   },
   "active": "347e724f9fcd7da7",
   "lastOpenFiles": [
-    "README.md",
     "02-projects/job-change/companies/0-index.md",
+    "04-clippings/元ヤフーエンジニア社長が考える、AI時代の採用基準.md",
+    "README.md",
     "02-projects/job-change/0-index.md",
     "02-projects/job-change/companies",
     "02-projects/job-change/interview-notes.md",
@@ -268,7 +269,6 @@
     "03-work/blog/platform-selection.md",
     "03-work/blog/qiita/platform-selection.md",
     "00-index/0-index.md",
-    "03-work/blog/1-rule.md",
     "03-work/blog",
     "Makefile",
     "01-journal/2026/09",
