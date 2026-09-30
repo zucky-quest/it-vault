@@ -46,26 +46,12 @@
             }
           },
           {
-            "id": "3c8f251a991c2cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "347e724f9fcd7da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-projects/job-change/0-index.md",
+                "file": "02-projects/job-change/companies/0-index.md",
                 "mode": "source",
                 "source": false
               },
@@ -74,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,8 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45adbbbd04abe3bd",
+  "active": "347e724f9fcd7da7",
   "lastOpenFiles": [
+    "README.md",
+    "02-projects/job-change/companies/0-index.md",
+    "02-projects/job-change/0-index.md",
     "02-projects/job-change/companies",
     "02-projects/job-change/interview-notes.md",
     "02-projects/job-change/findy-profile.md",
@@ -259,7 +248,6 @@
     "02-projects/job-change/job-change-criteria.md",
     "02-projects/job-change/profile.md",
     "02-projects/job-change/resume-draft.md",
-    "02-projects/job-change/0-index.md",
     "01-journal/2026/09/29.md",
     "05-assets/Pasted image 20260929080209.png",
     "02-projects/job-change/無題のファイル.md",
@@ -270,7 +258,6 @@
     "Clippings/オブザーバビリティ基礎編：New Relic  Datadog  AWS CloudWatch の実践的な選び方.md",
     "Clippings",
     "00-index/kanban.md",
-    "README.md",
     "00-index/0-design/dir-structure.md",
     "00-index/0-design/02-ai-agents.md",
     "00-index/0-design/00-index.md",
@@ -287,7 +274,6 @@
     "01-journal/2026/09",
     "01-journal/2026",
     "01-journal/2025/08",
-    "01-journal/2025",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"
