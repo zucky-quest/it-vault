@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "347e724f9fcd7da7",
+  "active": "b779bb40cd5d3d33",
   "lastOpenFiles": [
-    "02-projects/job-change/companies/0-index.md",
     "04-clippings/元ヤフーエンジニア社長が考える、AI時代の採用基準.md",
+    "02-projects/job-change/companies/0-index.md",
     "README.md",
     "02-projects/job-change/0-index.md",
     "02-projects/job-change/companies",
