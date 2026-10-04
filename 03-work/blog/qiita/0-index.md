@@ -16,5 +16,4 @@
 10. [[FlutterアプリのTestFlightGoogle Play配信をFastlaneで自動化して踏んだ地雷たち|FlutterアプリのTestFlight/Google Play配信をFastlaneで自動化して踏んだ地雷たち]]
 11. [[増えすぎたMCPサーバーを「許可リスト」で統制する - registry.yamlをSSOTにしたMCPガバナンス基盤]] - 増えすぎたMCPサーバーを「許可リスト」で統制する - registry.yamlをSSOTにしたMCPガバナンス基盤
 12. [[本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR]] - 本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR
-13. [[uvでAWS Lambdaのデプロイ時間を10倍高速化した話 - CDK PythonFunctionからの移行]] - uvでAWS Lambdaのデプロイ時間を10倍高速化した話 - CDK PythonFunctionからの移行
-14. [[launchdから~Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁|launchdから~/Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁]]
+13. [[launchdから~Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁|launchdから~/Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁]]

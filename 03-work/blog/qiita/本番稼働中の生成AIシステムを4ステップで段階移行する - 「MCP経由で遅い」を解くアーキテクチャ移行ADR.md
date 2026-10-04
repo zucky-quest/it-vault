@@ -1,8 +1,13 @@
 ---
-title: "本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR"
-emoji: "🧭"
-type: "tech"
-topics: ["アーキテクチャ", "ADR", "AWS", "MCP", "生成AI"]
+title: 本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR
+emoji: 🧭
+type: tech
+topics:
+  - アーキテクチャ
+  - ADR
+  - AWS
+  - MCP
+  - 生成AI
 published: false
 ---
 

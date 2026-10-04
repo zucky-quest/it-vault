@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # 心理的安全性と生産性を両立する自動ソースレビュー導入 （CodeRabbit活用）

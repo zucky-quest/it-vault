@@ -8,7 +8,7 @@ topics:
   - AI
   - Renovate
   - ガバナンス
-published: false
+published: true
 ---
 
 ## TL;DR
