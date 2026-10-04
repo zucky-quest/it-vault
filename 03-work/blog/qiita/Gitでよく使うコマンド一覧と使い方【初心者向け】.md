@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # Gitでよく使うコマンド一覧と使い方【初心者向け】

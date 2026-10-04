@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # 【心理的安全性】『人は話し方が9割』に学ぶ、スクラム開発とPRレビューの「伝え方」スキル化
