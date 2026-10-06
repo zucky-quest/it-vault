@@ -15,9 +15,9 @@ Findyのプロフィール欄・職歴欄へ転記するための原稿です。
 
 ## 職務要約（255文字以内・Findy転記用）
 
-バックエンド軸のフルスタックエンジニア。HR SaaS（人事労務・タレント・AI予測・LLM）の設計から運用まで担当。Python/LightGBM、React、Laravel、Go、AWS/Terraform。SMとしてAIスキル化でMTG50%削減、CI/CD自動化でデプロイ30分以上短縮。Apidog・AIエージェント/MCPの社内標準化、改善チームでの横展開も推進。
+バックエンド軸のフルスタックエンジニア。HR SaaS（人事労務・タレント・AI予測・LLM）の設計から運用まで担当。Python/LightGBM、React、Laravel、Go、AWS/Terraform。SMとしてAIスキル化でMTG50%削減、CI/CD自動化でデプロイ30分以上短縮。Apidog・AIエージェント/MCP標準化に加え、ML基盤のEFSからS3への移行・再設計も主導。
 
-（188文字）
+（198文字）
 
 ### 代替案（技術スタック重視・209文字）
 
@@ -35,11 +35,22 @@ HR系SaaSのフルスタックエンジニア。jinjerにて人事労務・タ�
 | 役割 | リーダー |
 | 職種 | フルスタックエンジニア |
 | マネジメント職種 | スクラムマスター |
-| スキル | AWS、TypeScript、React、pandas、Terraform、GitHub、Python3、MachineLearning、LightGBM、OpenAPI、MCP、Claude Code、Codex |
+| スキル | AWS、Step Functions、ECS、EC2、EFS、S3、TypeScript、React、pandas、Terraform、GitHub、Python3、MachineLearning、LightGBM、OpenAPI、MCP、Claude Code、Codex、GitHub Copilot、Jira、Slack |
 
 **業務内容（Findy転記用）**
 
 HRデータを機械学習（LightGBM、pandas）により分析し、退職傾向を予測するアプリの設計・開発・運用を担当しました。React/TypeScriptによるフロントエンド、Pythonによるバックエンド、Terraformを用いたAWSインフラを横断して開発し、クリーンアーキテクチャ・モジュラモノリスを意識した設計を推進しました。スクラムマスターとしてスクラム開発の導入、スケジュール管理、継続的なプロセス改善に取り組み、SM/POが多忙になりがちな定型作業をAIエージェントスキル化することでMTG時間を50%削減しました。新機能の設計、社内他チームとの連携、ベンダー調整も担当しました。
+
+### MLバッチ基盤のリアーキテクチャ・EFSからS3への移行（2026年7月〜進行中）
+
+| 項目 | 入力内容 |
+| --- | --- |
+| 役割 | 移行設計・推進リード |
+| スキル | AWS Step Functions、ECS Fargate、EFS、S3、Terraform、IAM、KMS、CloudTrail、Jira |
+
+**業務内容（Findy転記用）**
+
+離職予測MLバッチのファイル共有基盤をEFSからS3へ移行するリアーキテクチャを主導しました。既存のファイル依存箇所とワークロードを棚卸しし、POSIX共有などEFS固有の要件がないことを確認したうえで、S3 APIを使う構成を設計しました。IAM権限の分離、SSE-KMS、バージョニング、LifecycleによるPIIの保持期間管理、CloudTrail data eventsによるアクセス監査を組み込み、Terraformで管理しました。EFSとの二重書き・突合検証を経て段階的に本番を切り替え、2026年9月に本番の入出力をS3へ移行しました。ストレージ月額は92%減となりましたが、実削減額は年1.19ドルであり、主な価値は監査性とデータ保持設計の明確化です。旧ステートマシンの停止とEFS本体の撤去は、書類作成時点では継続中です。
 
 ---
 
@@ -51,7 +62,7 @@ HRデータを機械学習（LightGBM、pandas）により分析し、退職傾�
 | 役割 | メンバー |
 | 職種 | フルスタックエンジニア |
 | マネジメント職種 | スクラムマスター |
-| スキル | Python、AWS Lambda、DynamoDB、Flutter、Tailwind CSS、AWS CodePipeline、FastAPI、API Gateway、AWS CDK、CloudWatch、S3、Glue、Athena、AI Agent、MCP、Claude Code |
+| スキル | Python、AWS Lambda、DynamoDB、Flutter、Tailwind CSS、AWS CodePipeline、FastAPI、FastMCP、API Gateway、AWS CDK、CloudWatch、S3、Glue、Athena、AI Agent、MCP、Claude Code、Codex、GitHub Copilot、Slack |
 
 **業務内容（Findy転記用）**
 
@@ -66,7 +77,7 @@ HR領域にLLMを活用したチャットアプリの開発に携わりました
 | チーム規模 | 1〜10人 |
 | 役割 | メンバー |
 | 職種 | フルスタックエンジニア |
-| スキル | MCP、AI Agent、GitHub、Apidog、Claude Code、Codex、OpenAPI、Markdown |
+| スキル | MCP、AI Agent、GitHub、Apidog、Claude Code、Codex、GitHub Copilot、OpenAPI、Markdown、docs-as-code、Jira、Slack |
 
 **業務内容（Findy転記用）**
 
@@ -134,7 +145,7 @@ HRサービスの人事労務領域において、ユーザー向けアプリの
 
 ## AI活用経験
 
-業務ではClaude Code、Codex、Kiroを開発アシスタントとして活用し、コードレビューにはCodeRabbitを使用しています。AIエージェント4種類とMCPサーバーの導入、Agent Package Managerの社内標準化、docs-as-codeによるナレッジマネジメント、理解度チェックのオンボーディング標準化、スクラム運営の定型作業スキル化（MTG時間50%削減）を推進しました。個人開発ではCursorも活用しています。
+業務ではClaude Code、Codex、GitHub Copilot、Kiroを開発アシスタントとして活用し、コードレビューにはCodeRabbitを使用しています。AIエージェント4種類とMCPサーバーの導入、Agent Package Managerの社内標準化、docs-as-codeによるナレッジマネジメント、理解度チェックのオンボーディング標準化、スクラム運営の定型作業スキル化（MTG時間50%削減）を推進しました。個人開発ではCursorも活用しています。
 
 ## 自己PR（Findy転記用）
 
