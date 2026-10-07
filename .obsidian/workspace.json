@@ -79,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-journal/2026/10/05.md",
+                "file": "01-journal/2026/10/07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05"
+              "title": "07"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,13 +263,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2820a07e45a72917",
+  "active": "9db7020c1ce9e3d2",
   "lastOpenFiles": [
+    "01-journal/2026/10/05.md",
+    "01-journal/2026/10/07.md",
+    "02-projects/job-change/0-index.md",
     "02-projects/job-change/履歴書_鈴木宏尭_20261007.docx",
     "02-projects/job-change/career-history.md",
     "02-projects/job-change/職務経歴書_鈴木宏尭_20261006.docx",
     "02-projects/job-change/履歴書_鈴木宏尭_20261006.docx",
-    "02-projects/job-change/0-index.md",
     "02-projects/job-change/self-pr.md",
     "02-projects/job-change/resume-draft.md",
     "02-projects/job-change/profile.md",
@@ -279,7 +281,6 @@
     "03-work/blog/qiita/EFSからS3へ移行してコスト92%削減、金額にして年1.19ドル。それでも移行した理由.md",
     "03-work/blog/qiita/3リポに散った595ファイル・36,300行を独立チームのリポへ切り出した話 - Conwayの法則で境界を引き直す.md",
     "03-work/blog/qiita/launchdから~Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁.md",
-    "01-journal/2026/10/05.md",
     "03-work/blog/qiita/無題のファイル.md",
     "03-work/blog/qiita/心理的安全性と生産性を両立する自動ソースレビュー導入 （CodeRabbit活用）.md",
     "03-work/blog/qiita/LangChainとLangGraphを使い分ける - 3つのAIサービス実装の比較と選択ガイド.md",
@@ -301,7 +302,6 @@
     "Clippings",
     "00-index/1-operation",
     "00-index/0-design",
-    "03-work/blog",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"
