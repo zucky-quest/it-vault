@@ -35,11 +35,11 @@ HR系SaaSのフルスタックエンジニア。jinjerにて人事労務・タ�
 | 役割 | リーダー |
 | 職種 | フルスタックエンジニア |
 | マネジメント職種 | スクラムマスター |
-| スキル | AWS、Step Functions、ECS、EC2、EFS、S3、TypeScript、React、pandas、Terraform、GitHub、Python3、MachineLearning、LightGBM、OpenAPI、MCP、Claude Code、Codex、GitHub Copilot、Jira、Slack |
+| スキル | AWS、Step Functions、ECS、EC2、EFS、S3、New Relic、TypeScript、React、pandas、Terraform、GitHub、Python3、MachineLearning、LightGBM、OpenAPI、MCP、Claude Code、Codex、GitHub Copilot、Jira、Slack |
 
 **業務内容（Findy転記用）**
 
-HRデータを機械学習（LightGBM、pandas）により分析し、退職傾向を予測するアプリの設計・開発・運用を担当しました。React/TypeScriptによるフロントエンド、Pythonによるバックエンド、Terraformを用いたAWSインフラを横断して開発し、クリーンアーキテクチャ・モジュラモノリスを意識した設計を推進しました。スクラムマスターとしてスクラム開発の導入、スケジュール管理、継続的なプロセス改善に取り組み、SM/POが多忙になりがちな定型作業をAIエージェントスキル化することでMTG時間を50%削減しました。新機能の設計、社内他チームとの連携、ベンダー調整も担当しました。
+HRデータを機械学習（LightGBM、pandas）により分析し、退職傾向を予測するアプリの設計・開発・運用を担当しました。React/TypeScriptによるフロントエンド、Pythonによるバックエンド、Terraformを用いたAWSインフラを横断して開発し、New Relicを用いたアプリケーションの監視にも携わりました。クリーンアーキテクチャ・モジュラモノリスを意識した設計を推進しました。スクラムマスターとしてスクラム開発の導入、スケジュール管理、継続的なプロセス改善に取り組み、SM/POが多忙になりがちな定型作業をAIエージェントスキル化することでMTG時間を50%削減しました。新機能の設計、社内他チームとの連携、ベンダー調整も担当しました。
 
 ### MLバッチ基盤のリアーキテクチャ・EFSからS3への移行（2026年7月〜進行中）
 
@@ -62,11 +62,11 @@ HRデータを機械学習（LightGBM、pandas）により分析し、退職傾�
 | 役割 | メンバー |
 | 職種 | フルスタックエンジニア |
 | マネジメント職種 | スクラムマスター |
-| スキル | Python、AWS Lambda、DynamoDB、Flutter、Tailwind CSS、AWS CodePipeline、FastAPI、FastMCP、API Gateway、AWS CDK、CloudWatch、S3、Glue、Athena、AI Agent、MCP、Claude Code、Codex、GitHub Copilot、Slack |
+| スキル | Python、AWS Lambda、DynamoDB、Flutter、Tailwind CSS、AWS CodePipeline、FastAPI、FastMCP、API Gateway、AWS CDK、CloudWatch、S3、Glue、Athena、New Relic、AI Agent、MCP、Claude Code、Codex、GitHub Copilot、Slack |
 
 **業務内容（Findy転記用）**
 
-HR領域にLLMを活用したチャットアプリの開発に携わりました。Flutterによるモバイルアプリ、FastAPI・FastMCPによるバックエンド、AWS CDKによるインフラ整備を担当しました。社内に基盤がなかったiOS／Androidアプリ配信の自動化を新規導入し、DevOpsエンジニアとしてデプロイの属人化解消・ビルド番号変更漏れの防止により、1回あたり30分以上の工数削減を実現しました。スクラムマスターとしてスケジュール管理・継続的改善も支援しました。
+HR領域にLLMを活用したチャットアプリの開発に携わりました。Flutterによるモバイルアプリ、FastAPI・FastMCPによるバックエンド、AWS CDKによるインフラ整備を担当し、New Relicを用いたアプリケーションの監視にも携わりました。社内に基盤がなかったiOS／Androidアプリ配信の自動化を新規導入し、DevOpsエンジニアとしてデプロイの属人化解消・ビルド番号変更漏れの防止により、1回あたり30分以上の工数削減を実現しました。スクラムマスターとしてスケジュール管理・継続的改善も支援しました。
 
 ---
 

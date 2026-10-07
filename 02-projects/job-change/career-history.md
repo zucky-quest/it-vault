@@ -17,8 +17,8 @@
 | --- | --- |
 | Backend | PHP、Laravel、FuelPHP、Python、FastAPI、Go、Gin、機械学習関連アプリ |
 | Frontend | TypeScript、JavaScript、React、Flutter、Tailwind CSS、jQuery、Sass/CSS |
-| Infra | AWS、Google Cloud、Lambda、API Gateway、DynamoDB、AWS CDK、Terraform、Docker、AWS CodePipeline、CloudWatch、S3、Glue、Athena |
-| AI/Tooling | LangChain、LangGraph、Claude Code、Claude Agent SDK、Cursor、CodeRabbit、Dify、FastMCP、MCP |
+| Infra | AWS、Google Cloud、Lambda、API Gateway、DynamoDB、AWS CDK、Terraform、Docker、AWS CodePipeline、CloudWatch、New Relic、S3、Glue、Athena |
+| AI/Tooling | LangChain、LangGraph、Claude Code、Codex、GitHub Copilot、Claude Agent SDK、Cursor、CodeRabbit、Dify、FastMCP、MCP |
 | Data | PostgreSQL、MySQL |
 | Architecture | クリーンアーキテクチャ、マイクロサービスアーキテクチャ、モジュラモノリス、DDD、SOLID、KISS、DRY、YAGNI |
 
@@ -27,7 +27,7 @@
 - 要件整理、アーキテクチャ設計、技術選定、実装、テスト、リリース、運用改善を一貫して担当
 - フロントエンド、バックエンド、インフラを横断した開発を経験
 - クリーンアーキテクチャ、マイクロサービスアーキテクチャ、モジュラモノリスの設計・運用を経験
-- CloudWatch、S3、Glue、Athenaを用いた構造化ログの収集・蓄積・分析運用に関与
+- CloudWatch、New Relic、S3、Glue、Athenaを用いたアプリケーション監視・構造化ログの収集・蓄積・分析運用に関与
 - Tailwind CSSを用いたフロントエンド開発を経験
 - YAGNIを意識し、要件と運用負荷に応じて過剰な複雑化を避けた設計を推進
 - チーム改善や標準化、CI/CD改善、ドキュメント整備を通じて開発効率の向上を推進

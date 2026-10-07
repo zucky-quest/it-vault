@@ -15,9 +15,9 @@ PHP/Laravel、Python/FastAPIを中心としたバックエンド開発に加え�
 | --- | --- |
 | バックエンド | PHP、Laravel、FuelPHP、Python、FastAPI、Go、Gin、API設計・実装、バッチ処理 |
 | フロントエンド | TypeScript、JavaScript、React、Flutter、Tailwind CSS、jQuery、Sass/CSS |
-| インフラ・クラウド | AWS、Google Cloud、Lambda、API Gateway、DynamoDB、AWS CDK、Terraform、Docker、AWS CodePipeline、CloudWatch、S3、Glue、Athena |
+| インフラ・クラウド | AWS、Google Cloud、Lambda、API Gateway、DynamoDB、AWS CDK、Terraform、Docker、AWS CodePipeline、CloudWatch、New Relic、S3、Glue、Athena |
 | データベース | MySQL、PostgreSQL |
-| AI・開発支援 | LangChain、LangGraph、Claude Code、Cursor、CodeRabbit、Dify、FastMCP |
+| AI・開発支援 | LangChain、LangGraph、Claude Code、Codex、GitHub Copilot、Cursor、CodeRabbit、Dify、FastMCP |
 | アーキテクチャ・設計 | クリーンアーキテクチャ、マイクロサービスアーキテクチャ、モジュラモノリス、DDD、SOLID、KISS、DRY、YAGNI |
 | 開発プロセス | 詳細設計、技術選定、ソースレビュー、テスト、リリース、運用、スクラムマスター、プロセス改善 |
 
@@ -41,7 +41,7 @@ PHP/Laravel、Python/FastAPIを中心としたバックエンド開発に加え�
 
 - HRデータを機械学習により分析し、傾向を予測するアプリの設計、開発、運用を担当
 - フロントエンド、バックエンド、AWSインフラを横断して開発
-- CloudWatch、S3、Glue、Athenaなどを用いた構造化ログの収集・蓄積・分析運用にも関与
+- CloudWatch、New Relic、S3、Glue、Athenaなどを用いたアプリケーション監視・構造化ログの収集・蓄積・分析運用にも関与
 - スクラムマスターとして、スクラム開発の導入、継続的な改善、中長期のスケジューリングを実施
 - 新機能の設計、社内他チームとの連携、ベンダーとの調整にも関与
 
