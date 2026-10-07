@@ -21,7 +21,7 @@ Findyのプロフィール欄・職歴欄へ転記するための原稿です。
 
 ### 代替案（技術スタック重視・209文字）
 
-HR系SaaSのフルスタックエンジニア。jinjerにて人事労務・タレント・AI退職予測（LightGBM）・LLMチャットを設計開発運用。React/TypeScript、Python/FastAPI、Laravel、Go、AWS CDK/Terraform、Flutter。SM兼リーダーとしてスクラム改善、AIエージェント/MCP標準化、CI/CD・Apidog導入、IOS/Android配信自動化で開発生産性を向上。
+HR系SaaSのフルスタックエンジニア。jinjerにて人事労務・タレント・AI退職予測（LightGBM）・LLMチャットを設計開発運用。React/TypeScript、Python/FastAPI、Laravel、Go、AWS CDK/Terraform、Flutter。SM兼リーダーとしてスクラム改善、AIエージェント/MCP標準化、CI/CD・Apidog導入、iOS/Android配信自動化で開発生産性を向上。
 
 ---
 
@@ -66,7 +66,7 @@ HRデータを機械学習（LightGBM、pandas）により分析し、退職傾�
 
 **業務内容（Findy転記用）**
 
-HR領域にLLMを活用したチャットアプリの開発に携わりました。Flutterによるモバイルアプリ、FastAPI・FastMCPによるバックエンド、AWS CDKによるインフラ整備を担当しました。社内に基盤がなかったAndroidアプリ配信の自動化を新規導入し、DevOpsエンジニアとしてデプロイの属人化解消・ビルド番号変更漏れの防止により、1回あたり30分以上の工数削減を実現しました。スクラムマスターとしてスケジュール管理・継続的改善も支援しました。
+HR領域にLLMを活用したチャットアプリの開発に携わりました。Flutterによるモバイルアプリ、FastAPI・FastMCPによるバックエンド、AWS CDKによるインフラ整備を担当しました。社内に基盤がなかったiOS／Androidアプリ配信の自動化を新規導入し、DevOpsエンジニアとしてデプロイの属人化解消・ビルド番号変更漏れの防止により、1回あたり30分以上の工数削減を実現しました。スクラムマスターとしてスケジュール管理・継続的改善も支援しました。
 
 ---
 
@@ -151,7 +151,7 @@ HRサービスの人事労務領域において、ユーザー向けアプリの
 
 バックエンドを軸とするフルスタックエンジニアです。HR SaaSのプロダクト開発に加え、社内改善チームでAIエージェント/MCP基盤、Apidog、GitHub移行、docs-as-codeによるナレッジマネジメントなど開発基盤の整備も担当しています。
 
-強みは、実装だけでなく「社内に基盤がない領域をゼロから整備し、他チームへ展開できること」です。Agent Package Managerによるスキル・MCP・AIエージェントの統合管理、Apidogを用いたAPI運用基盤、BitbucketからGitHubへの移行、docs-as-codeによるナレッジ共有を推進しました。理解度チェックをAIエージェントスキル化し、オンボーディングを標準化。プロダクト開発では、Android配信自動化でデプロイ工数30分以上削減、スクラムマスターとしてAIスキル化でMTG時間50%削減を実現しています。
+強みは、実装だけでなく「社内に基盤がない領域をゼロから整備し、他チームへ展開できること」です。Agent Package Managerによるスキル・MCP・AIエージェントの統合管理、Apidogを用いたAPI運用基盤、BitbucketからGitHubへの移行、docs-as-codeによるナレッジ共有を推進しました。理解度チェックをAIエージェントスキル化し、オンボーディングを標準化。プロダクト開発では、iOS／Android配信自動化でデプロイ工数30分以上削減、スクラムマスターとしてAIスキル化でMTG時間50%削減を実現しています。
 
 PHP/Laravel、Python/FastAPI、Go/Gin、React/TypeScript、Flutter、AWS CDK/Terraformを用いた開発経験があり、設計・技術選定・リリース・運用改善まで一貫して担当できます。今後はリモート・自社開発環境の中で、バックエンドとAI活用を軸にSaaSプロダクトの成長と開発組織の生産性向上の両方に貢献したいと考えています。
 
