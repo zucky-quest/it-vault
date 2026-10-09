@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-projects/job-change/companies/0-index.md",
+                "file": "02-projects/job-change/job-change-criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-index"
+              "title": "job-change-criteria"
             }
           },
           {
@@ -265,6 +265,10 @@
   },
   "active": "2820a07e45a72917",
   "lastOpenFiles": [
+    "02-projects/job-change/interview-notes.md",
+    "02-projects/job-change/career-history.md",
+    "02-projects/job-change/resume-draft.md",
+    "02-projects/job-change/companies/0-index.md",
     "02-projects/job-change/0-index.md",
     "01-journal/2026/10/09.md",
     "03-work/blog/qiita/EFSからS3へ移行してコスト92%削減、金額にして年1.19ドル。それでも移行した理由.md",
@@ -276,14 +280,11 @@
     "01-journal/2026/10/07.md",
     "01-journal/2026/10/05.md",
     "02-projects/job-change/履歴書_鈴木宏尭_20261007.docx",
-    "02-projects/job-change/career-history.md",
     "02-projects/job-change/職務経歴書_鈴木宏尭_20261006.docx",
     "02-projects/job-change/履歴書_鈴木宏尭_20261006.docx",
     "02-projects/job-change/self-pr.md",
-    "02-projects/job-change/resume-draft.md",
     "02-projects/job-change/profile.md",
     "02-projects/job-change/job-change-criteria.md",
-    "02-projects/job-change/interview-notes.md",
     "02-projects/job-change/findy-profile.md",
     "03-work/blog/qiita/launchdから~Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁.md",
     "03-work/blog/qiita/無題のファイル.md",
@@ -293,7 +294,6 @@
     "03-work/blog/qiita/FlutterアプリのTestFlightGoogle Play配信をFastlaneで自動化して踏んだ地雷たち.md",
     "03-work/blog/qiita/Claude Code と Codex の設定を1つのSSOTに統一する - APMでAIエージェント設定をコード管理した話.md",
     "03-work/blog/qiita/API開発を効率化するApidogの使い方とPostmanとの違い.md",
-    "03-work/blog/qiita/API GatewayでSSEはできる、本当の壁はLambdaがPythonだったこと - 生成AIチャットのWebSocket→SSE移行 技術調査.md",
     "03-work/blog/zenn",
     "01-journal/2026/10",
     "02-projects/job-change/companies",
