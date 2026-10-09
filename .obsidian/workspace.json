@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-projects/job-change/0-index.md",
+                "file": "02-projects/job-change/companies/0-index.md",
                 "mode": "source",
                 "source": false
               },
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,8 +263,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c9d2d4b917193f3",
+  "active": "2820a07e45a72917",
   "lastOpenFiles": [
+    "02-projects/job-change/0-index.md",
     "01-journal/2026/10/09.md",
     "03-work/blog/qiita/EFSからS3へ移行してコスト92%削減、金額にして年1.19ドル。それでも移行した理由.md",
     "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
@@ -274,7 +275,6 @@
     "03-work/blog/qiita/3リポに散った595ファイル・36,300行を独立チームのリポへ切り出した話 - Conwayの法則で境界を引き直す.md",
     "01-journal/2026/10/07.md",
     "01-journal/2026/10/05.md",
-    "02-projects/job-change/0-index.md",
     "02-projects/job-change/履歴書_鈴木宏尭_20261007.docx",
     "02-projects/job-change/career-history.md",
     "02-projects/job-change/職務経歴書_鈴木宏尭_20261006.docx",

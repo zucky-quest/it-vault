@@ -3,4 +3,7 @@
 企業ごとのメモ
 
 ## Index
+wantedly
+ai productあり
+
 
