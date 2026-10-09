@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.8125
   },
   "right": {
     "id": "976e32c85a253f4f",
@@ -263,8 +263,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9db7020c1ce9e3d2",
+  "active": "1c9d2d4b917193f3",
   "lastOpenFiles": [
+    "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
+    "03-work/blog/qiita/0-index.md",
     "03-work/blog/qiita/増えすぎたMCPサーバーを「許可リスト」で統制する - registry.yamlをSSOTにしたMCPガバナンス基盤.md",
     "03-work/blog/qiita/問題と課題の違いを理解して、適切な解決手法を選択しよう.md",
     "03-work/blog/qiita/3リポに散った595ファイル・36,300行を独立チームのリポへ切り出した話 - Conwayの法則で境界を引き直す.md",
@@ -292,8 +294,6 @@
     "03-work/blog/qiita/API開発を効率化するApidogの使い方とPostmanとの違い.md",
     "03-work/blog/qiita/API GatewayでSSEはできる、本当の壁はLambdaがPythonだったこと - 生成AIチャットのWebSocket→SSE移行 技術調査.md",
     "03-work/blog/qiita/「以後気をつけます」をレトロで終わらせない —— 失敗学 × スクラム × AIレビューでミスを仕組み化する.md",
-    "03-work/blog/qiita/【心理的安全性】『人は話し方が9割』に学ぶ、スクラム開発とPRレビューの「伝え方」スキル化.md",
-    "03-work/blog/qiita/0-index.md",
     "03-work/blog/zenn",
     "01-journal/2026/10",
     "02-projects/job-change/companies",
