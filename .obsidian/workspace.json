@@ -72,23 +72,9 @@
               "icon": "lucide-file",
               "title": "job-change-criteria"
             }
-          },
-          {
-            "id": "9db7020c1ce9e3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,9 +249,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b779bb40cd5d3d33",
+  "active": "2820a07e45a72917",
   "lastOpenFiles": [
+    "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
     "01-journal/2026/10/10.md",
+    "00-index/kanban.md",
     "04-clipping/yomiyasu - AI Agents on GitHub (1.8k★).md",
     "04-clipping",
     "01-journal/2026/10/09.md",
@@ -276,7 +264,6 @@
     "02-projects/job-change/companies/0-index.md",
     "02-projects/job-change/0-index.md",
     "03-work/blog/qiita/EFSからS3へ移行してコスト92%削減、金額にして年1.19ドル。それでも移行した理由.md",
-    "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
     "03-work/blog/qiita/0-index.md",
     "03-work/blog/qiita/増えすぎたMCPサーバーを「許可リスト」で統制する - registry.yamlをSSOTにしたMCPガバナンス基盤.md",
     "03-work/blog/qiita/問題と課題の違いを理解して、適切な解決手法を選択しよう.md",
@@ -294,7 +281,6 @@
     "03-work/blog/qiita/心理的安全性と生産性を両立する自動ソースレビュー導入 （CodeRabbit活用）.md",
     "03-work/blog/qiita/LangChainとLangGraphを使い分ける - 3つのAIサービス実装の比較と選択ガイド.md",
     "03-work/blog/qiita/Gitでよく使うコマンド一覧と使い方【初心者向け】.md",
-    "03-work/blog/qiita/FlutterアプリのTestFlightGoogle Play配信をFastlaneで自動化して踏んだ地雷たち.md",
     "03-work/blog/zenn",
     "01-journal/2026/10",
     "02-projects/job-change/companies",
