@@ -10,6 +10,8 @@ kanban-plugin: board
 - [ ] [[プロジェクトマネージャ試験（PM）]]
 - [ ] jujutsu で Git 管理してみる
 	https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide
+- [ ] 外部スキルの yomiyasu を使用してみる
+	https://skillsllm.com/skill/yomiyasu
 
 
 ## WIP
