@@ -72,21 +72,9 @@
               "icon": "lucide-file",
               "title": "job-change-criteria"
             }
-          },
-          {
-            "id": "716d03e89ac8e3ba",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.14.4"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,7 +248,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "716d03e89ac8e3ba",
+  "active": "2820a07e45a72917",
   "lastOpenFiles": [
     "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
     "01-journal/2026/10/10.md",
