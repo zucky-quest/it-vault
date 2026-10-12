@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,10 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c9d2d4b917193f3",
+  "active": "b779bb40cd5d3d33",
   "lastOpenFiles": [
-    "01-journal/2026/10/10.md",
     "01-journal/2026/10/12.md",
+    "01-journal/2026/10/10.md",
     "02-projects/job-change/job-change-criteria.md",
     "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
     "00-index/kanban.md",

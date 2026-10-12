@@ -16,12 +16,12 @@ kanban-plugin: board
 
 ## WIP
 
-- [ ] NewRelic tutorial
-	https://docs.newrelic.com/jp/docs/new-relic-solutions/tutorial-landing-page/
 
 
 ## Complete
 
+- [ ] NewRelic tutorial
+	https://docs.newrelic.com/jp/docs/new-relic-solutions/tutorial-landing-page/
 - [ ] Kaggle learn
 	https://www.kaggle.com/learn/feature-engineering
 - [ ] Kaggle learn
