@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,15 +248,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2820a07e45a72917",
+  "active": "1c9d2d4b917193f3",
   "lastOpenFiles": [
+    "02-projects/job-change/job-change-criteria.md",
     "03-work/blog/qiita/本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR.md",
     "01-journal/2026/10/10.md",
     "00-index/kanban.md",
     "04-clipping/yomiyasu - AI Agents on GitHub (1.8k★).md",
     "04-clipping",
     "01-journal/2026/10/09.md",
-    "02-projects/job-change/job-change-criteria.md",
     "02-projects/job-change/interview-notes.md",
     "02-projects/job-change/career-history.md",
     "02-projects/job-change/resume-draft.md",
