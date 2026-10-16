@@ -1,9 +1,14 @@
 ---
-title: "launchdから~/Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁"
-emoji: "🔒"
-type: "tech"
-topics: ["macOS", "launchd", "TCC", "Obsidian", "Bash"]
-published: false
+title: launchdから~/Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁
+emoji: 🔒
+type: tech
+topics:
+  - macOS
+  - launchd
+  - TCC
+  - Obsidian
+  - Bash
+published: true
 ---
 
 ## TL;DR
