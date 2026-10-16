@@ -15,5 +15,6 @@
 9. [[Claude Code と Codex の設定を1つのSSOTに統一する - APMでAIエージェント設定をコード管理した話]] - Claude Code と Codex の設定を1つのSSOTに統一する - APMでAIエージェント設定をコード管理した話
 10. [[FlutterアプリのTestFlightGoogle Play配信をFastlaneで自動化して踏んだ地雷たち|FlutterアプリのTestFlight/Google Play配信をFastlaneで自動化して踏んだ地雷たち]]
 11. [[増えすぎたMCPサーバーを「許可リスト」で統制する - registry.yamlをSSOTにしたMCPガバナンス基盤]] - 増えすぎたMCPサーバーを「許可リスト」で統制する - registry.yamlをSSOTにしたMCPガバナンス基盤
-12. [[本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR]] - 本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR
+12. [[本番稼働中の生成AIシステムを4ステップで段階移行する - 「MCP経由で遅い」を解くアーキテクチャ移行ADR]]]
 13. [[launchdから~Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁|launchdから~/Documentsは見えない - Obsidian Vault自動バックアップで踏んだmacOS TCCの壁]]
+14. [[3リポに散った595ファイル・36,300行を独立チームのリポへ切り出した話 - Conwayの法則で境界を引き直す]]
