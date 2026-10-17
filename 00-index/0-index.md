@@ -14,7 +14,7 @@
 ## アウトプット
 
 - [[03-work/blog/1-rule|ブログ記事の作成ルール]]
-- [[03-work/blog/qiita/0-index|Qiita 記事一覧]]
+- [[03-work/blog/0-index|ブログ記事一覧]]
 
 ## フォルダの使い分け
 
