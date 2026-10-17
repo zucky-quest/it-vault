@@ -267,6 +267,7 @@
   "active": "7c32de59ebe3d906",
   "lastOpenFiles": [
     "03-work/blog/0-index.md",
+    "03-work/blog/qiita/EFSからS3へ移行してコスト92%削減、金額にして年1.19ドル。それでも移行した理由.md",
     "00-index/0-index.md",
     "03-work/blog/qiita/問題と課題の違いを理解して、適切な解決手法を選択しよう.md",
     "01-journal/2026/10/17.md",
@@ -281,7 +282,6 @@
     "03-work/blog/qiita/API GatewayでSSEはできる、本当の壁はLambdaがPythonだったこと - 生成AIチャットのWebSocket→SSE移行 技術調査.md",
     "03-work/blog/qiita/API開発を効率化するApidogの使い方とPostmanとの違い.md",
     "03-work/blog/qiita/Claude Code と Codex の設定を1つのSSOTに統一する - APMでAIエージェント設定をコード管理した話.md",
-    "03-work/blog/qiita/EFSからS3へ移行してコスト92%削減、金額にして年1.19ドル。それでも移行した理由.md",
     "03-work/blog/qiita/FlutterアプリのTestFlightGoogle Play配信をFastlaneで自動化して踏んだ地雷たち.md",
     "03-work/blog/qiita/Gitでよく使うコマンド一覧と使い方【初心者向け】.md",
     "03-work/blog/qiita/LangChainとLangGraphを使い分ける - 3つのAIサービス実装の比較と選択ガイド.md",
