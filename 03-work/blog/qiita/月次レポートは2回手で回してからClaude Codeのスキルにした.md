@@ -1,9 +1,15 @@
 ---
-title: "月次レポートは 2 回手で回してから Claude Code のスキルにした - 実データで踏んだ落とし穴だけを書く"
-emoji: "📝"
-type: "tech"
-topics: ["ClaudeCode", "AI", "業務改善", "Metabase", "Confluence"]
-published: false
+title: 月次レポートは 2 回手で回してから Claude Code のスキルにした - 実データで踏んだ落とし穴だけを書く
+emoji: 📝
+type: tech
+topics:
+  - ClaudeCode
+  - AI
+  - 業務改善
+  - Metabase
+  - Confluence
+published: true
+url: https://qiita.com/zucky-quest/items/39b353d45a42606d57cb
 ---
 ## TL;DR
 
