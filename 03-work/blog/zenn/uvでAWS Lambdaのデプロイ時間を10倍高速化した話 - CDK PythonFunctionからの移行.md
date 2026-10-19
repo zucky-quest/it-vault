@@ -9,6 +9,7 @@ topics:
   - Lambda
   - CDK
 published: true
+url: https://zenn.dev/jinjer_techblog/articles/4c7e07ef2cd74e
 ---
 
 ## TL;DR
