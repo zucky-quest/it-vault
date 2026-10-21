@@ -1,9 +1,16 @@
 ---
-title: "Checkov を「入れて終わり」にしない - 192 件の baseline を 0 にし、除外は 2 軸の台帳で統制する"
-emoji: "🛡️"
-type: "tech"
-topics: ["Checkov", "Terraform", "GitHubActions", "セキュリティ", "IaC"]
-published: false
+title: Checkov を「入れて終わり」にしない - 192 件の baseline を 0 にし、除外は 2 軸の台帳で統制する
+emoji: 🛡️
+type: tech
+topics:
+  - Checkov
+  - Terraform
+  - GitHubActions
+  - セキュリティ
+  - IaC
+published: true
+url: |
+  https://qiita.com/zucky-quest/items/7221cd4f20c59d19a37c
 ---
 ## TL;DR
 
