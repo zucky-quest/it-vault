@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-work/blog/qiita/デザインの在りかをリポジトリに書くとAIエージェントがFigmaまで辿れる - 画面一覧表とFigma MCPでUI文言を画面単位でレビューする.md",
+                "file": "03-work/blog/qiita/MinIOの公式イメージが消えた - 使うS3 APIを5つに絞って後継を実機比較し、フォークを固定して採用した.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "デザインの在りかをリポジトリに書くとAIエージェントがFigmaまで辿れる - 画面一覧表とFigma MCPでUI文言を画面単位でレビューする"
+              "title": "MinIOの公式イメージが消えた - 使うS3 APIを5つに絞って後継を実機比較し、フォークを固定して採用した"
             }
           }
         ],
@@ -296,8 +296,9 @@
   },
   "active": "590246da11415c1f",
   "lastOpenFiles": [
-    "03-work/blog/0-index.md",
     "03-work/blog/qiita/デザインの在りかをリポジトリに書くとAIエージェントがFigmaまで辿れる - 画面一覧表とFigma MCPでUI文言を画面単位でレビューする.md",
+    "03-work/blog/qiita/MinIOの公式イメージが消えた - 使うS3 APIを5つに絞って後継を実機比較し、フォークを固定して採用した.md",
+    "03-work/blog/0-index.md",
     "01-journal/2026/10/23.md",
     "01-journal/2026/10/22.md",
     "01-journal/2026/10/24.md",
@@ -322,7 +323,6 @@
     "03-work/blog/qiita/問題と課題の違いを理解して、適切な解決手法を選択しよう.md",
     "01-journal/2026/09/29.md",
     "03-work/blog/qiita/qiita-articles.base",
-    "03-work/blog/platform-selection.md",
     "04-clipping",
     "02-projects/job-change/履歴書_鈴木宏尭_20261007.docx",
     "02-projects/job-change/職務経歴書_鈴木宏尭_20261006.docx",
