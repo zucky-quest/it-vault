@@ -1,9 +1,15 @@
 ---
-title: "デザインの在りかをリポジトリに書くと AI エージェントが Figma まで辿れる - 画面一覧表と Figma MCP で UI 文言を画面単位でレビューする"
-emoji: "🎨"
-type: "tech"
-topics: ["Figma", "MCP", "ClaudeCode", "AIエージェント", "UXライティング"]
-published: false
+title: デザインの在りかをリポジトリに書くと AI エージェントが Figma まで辿れる - 画面一覧表と Figma MCP で UI 文言を画面単位でレビューする
+emoji: 🎨
+type: tech
+topics:
+  - Figma
+  - MCP
+  - ClaudeCode
+  - AIエージェント
+  - UXライティング
+published: true
+url: https://qiita.com/zucky-quest/items/d65e03e298c9e636160f
 ---
 ## TL;DR
 
