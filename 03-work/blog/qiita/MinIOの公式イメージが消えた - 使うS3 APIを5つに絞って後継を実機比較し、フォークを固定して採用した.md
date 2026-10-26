@@ -1,9 +1,15 @@
 ---
-title: "MinIO の公式イメージが消えた - 使う S3 API を 5 つに絞って後継を実機比較し、フォークを固定して採用した"
-emoji: "🪣"
-type: "tech"
-topics: ["MinIO", "Docker", "S3", "RustFS", "GitHubActions"]
-published: false
+title: MinIO の公式イメージが消えた - 使う S3 API を 5 つに絞って後継を実機比較し、フォークを固定して採用した
+emoji: 🪣
+type: tech
+topics:
+  - MinIO
+  - Docker
+  - S3
+  - RustFS
+  - GitHubActions
+published: true
+url: https://qiita.com/zucky-quest/items/8bcabaf055498e970bb2
 ---
 ## TL;DR
 
