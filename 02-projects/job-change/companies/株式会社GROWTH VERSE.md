@@ -1,1 +1,5 @@
-- 
+- 外部ベンダーなし
+- macbook pro 最新
+- claude code  team プラン
+- 夜間リリース
+	- 

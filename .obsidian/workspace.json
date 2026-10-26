@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,11 +294,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a536d8a17779dbfd",
+  "active": "d1f015e05f57102e",
   "lastOpenFiles": [
+    "02-projects/job-change/interview-notes.md",
+    "02-projects/job-change/job-change-criteria.md",
     "02-projects/job-change/companies/株式会社GROWTH VERSE.md",
     "03-work/blog/0-index.md",
-    "02-projects/job-change/interview-notes.md",
     "03-work/blog/qiita/Checkovを入れて終わりにしない - baselineを空にし、除外は2軸の台帳で統制する.md",
     "01-journal/2026/10/26.md",
     "03-work/blog/qiita/MinIOの公式イメージが消えた - 使うS3 APIを5つに絞って後継を実機比較し、フォークを固定して採用した.md",
@@ -307,7 +308,6 @@
     "01-journal/2026/10/22.md",
     "01-journal/2026/10/24.md",
     "03-work/blog/qiita/アイコンだけのボタンはaxeを素通りする - jsdomの単体テストにaxe-coreを直接組み込み、独自ルールで穴を埋める.md",
-    "02-projects/job-change/job-change-criteria.md",
     "02-projects/job-change/companies/株式会社JDSC.md",
     "02-projects/job-change/companies/0-index.md",
     "00-index/0-index.md",
