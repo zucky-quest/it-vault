@@ -1,9 +1,15 @@
 ---
-title: "S3 の大量削除をメンテナンス時間から切り離す - DB の一括処理と別の実行モードにし、バッチサイズの上限は計測で決めた"
-emoji: "🧹"
-type: "tech"
-topics: ["AWS", "S3", "Go", "バッチ処理", "設計"]
-published: false
+title: S3 の大量削除をメンテナンス時間から切り離す - DB の一括処理と別の実行モードにし、バッチサイズの上限は計測で決めた
+emoji: 🧹
+type: tech
+topics:
+  - AWS
+  - S3
+  - Go
+  - バッチ処理
+  - 設計
+published: true
+url: https://qiita.com/zucky-quest/items/63c9204846db52ea4d22
 ---
 
 ## TL;DR
