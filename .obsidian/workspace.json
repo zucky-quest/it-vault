@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -294,11 +294,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1f015e05f57102e",
+  "active": "a536d8a17779dbfd",
   "lastOpenFiles": [
+    "02-projects/job-change/companies/株式会社GROWTH VERSE.md",
     "02-projects/job-change/interview-notes.md",
     "02-projects/job-change/job-change-criteria.md",
-    "02-projects/job-change/companies/株式会社GROWTH VERSE.md",
     "03-work/blog/0-index.md",
     "03-work/blog/qiita/Checkovを入れて終わりにしない - baselineを空にし、除外は2軸の台帳で統制する.md",
     "01-journal/2026/10/26.md",
