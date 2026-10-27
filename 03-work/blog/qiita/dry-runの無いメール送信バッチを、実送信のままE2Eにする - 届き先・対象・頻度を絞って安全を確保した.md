@@ -1,9 +1,15 @@
 ---
-title: "dry-run の無いメール送信バッチを、実送信のまま E2E にする - 届き先・対象・頻度を絞って安全を確保した"
-emoji: "📮"
-type: "tech"
-topics: ["Playwright", "E2E", "ECS", "GitHubActions", "テスト"]
-published: false
+title: dry-run の無いメール送信バッチを、実送信のまま E2E にする - 届き先・対象・頻度を絞って安全を確保した
+emoji: 📮
+type: tech
+topics:
+  - Playwright
+  - E2E
+  - ECS
+  - GitHubActions
+  - テスト
+published: true
+url: https://qiita.com/zucky-quest/items/35dbbb6c51ef593ef1c6
 ---
 ## TL;DR
 
