@@ -1,9 +1,15 @@
 ---
-title: "多数のテーブルの一括 UPDATE 文を information_schema から自動生成する - 更新する列を機械的に決めて、人の書き漏れをなくす"
-emoji: "🛠️"
-type: "tech"
-topics: ["MySQL", "Go", "information_schema", "バッチ処理", "テスト"]
-published: false
+title: 多数のテーブルの一括 UPDATE 文を information_schema から自動生成する - 更新する列を機械的に決めて、人の書き漏れをなくす
+emoji: 🛠️
+type: tech
+topics:
+  - MySQL
+  - Go
+  - information_schema
+  - バッチ処理
+  - テスト
+published: true
+url: https://qiita.com/zucky-quest/items/b27cc4fc7117c6f00268
 ---
 ## TL;DR
 
