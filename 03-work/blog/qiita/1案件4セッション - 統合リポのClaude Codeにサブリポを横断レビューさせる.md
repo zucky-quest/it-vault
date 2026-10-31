@@ -1,9 +1,15 @@
 ---
-title: "1 案件 4 セッション：統合リポの Claude Code にサブリポを横断レビューさせる - 作業ツリー共有事故から git worktree 分離まで"
-emoji: "🧑‍🤝‍🧑"
-type: "tech"
-topics: ["ClaudeCode", "AIエージェント", "Git", "herdr", "Ghostty"]
+title: 1 案件 4 セッション：統合リポの Claude Code にサブリポを横断レビューさせる - 作業ツリー共有事故から git worktree 分離まで
+emoji: 🧑‍🤝‍🧑
+type: tech
+topics:
+  - ClaudeCode
+  - AIエージェント
+  - Git
+  - herdr
+  - Ghostty
 published: false
+url: https://qiita.com/zucky-quest/items/74ed4d7fd676dd5f5556
 ---
 
 ## TL;DR

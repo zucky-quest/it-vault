@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "190bc93d9fc0ff0b",
+            "id": "0b41de5be150cfaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -280,13 +280,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "190bc93d9fc0ff0b",
+  "active": "0b41de5be150cfaf",
   "lastOpenFiles": [
-    "03-work/blog/qiita/1案件4セッション - 統合リポのClaude Codeにサブリポを横断レビューさせる.md",
     "03-work/blog/0-index.md",
+    "02-projects/job-change/job-change-criteria.md",
+    "03-work/blog/qiita/通知を推論が終わった時刻ではなく予定日で配る - EventBridge Schedulerのscheduled-timeをDBまで運ぶ設計.md",
+    "03-work/blog/qiita/1案件4セッション - 統合リポのClaude Codeにサブリポを横断レビューさせる.md",
+    "03-work/blog/qiita/OpenAPIを正本にして、Apidog・Go・TypeScriptを「生成とCI」で同期する.md",
     "02-projects/job-change/interview-notes.md",
     "03-work/blog/qiita/ドキュメントの置き場所は誰が読むかで決める - docsとConfluenceの線引きと、移して得たもの.md",
-    "03-work/blog/qiita/通知を推論が終わった時刻ではなく予定日で配る - EventBridge Schedulerのscheduled-timeをDBまで運ぶ設計.md",
     "01-journal/2026/10/28.md",
     "03-work/blog/qiita/何も起きなかったをメトリクスの欠損で検知する - 毎日必ず動くバッチを観測点にして、日次の処理を3層で監視する.md",
     "03-work/blog/qiita/gitleaksからbetterleaksへ - PRごとのツリー検査と週次の全履歴検査に分け、除外もパスとコミットで分けた.md",
@@ -297,7 +299,6 @@
     "03-work/blog/qiita/S3の大量削除をメンテナンス時間から切り離す - DBの一括処理と別の実行モードにし、バッチサイズの上限は計測で決めた.md",
     "02-projects/study-notes/Professional Scrum Master™ I (PSM I).md",
     "02-projects/job-change/companies/株式会社GROWTH VERSE.md",
-    "02-projects/job-change/job-change-criteria.md",
     "03-work/blog/qiita/Checkovを入れて終わりにしない - baselineを空にし、除外は2軸の台帳で統制する.md",
     "01-journal/2026/10/26.md",
     "03-work/blog/qiita/MinIOの公式イメージが消えた - 使うS3 APIを5つに絞って後継を実機比較し、フォークを固定して採用した.md",
@@ -307,7 +308,6 @@
     "01-journal/2026/10/24.md",
     "03-work/blog/qiita/アイコンだけのボタンはaxeを素通りする - jsdomの単体テストにaxe-coreを直接組み込み、独自ルールで穴を埋める.md",
     "02-projects/job-change/companies/株式会社JDSC.md",
-    "02-projects/job-change/companies/0-index.md",
     "03-work/blog/qiita/qiita-articles.base",
     "04-clipping",
     "02-projects/job-change/履歴書_鈴木宏尭_20261007.docx",

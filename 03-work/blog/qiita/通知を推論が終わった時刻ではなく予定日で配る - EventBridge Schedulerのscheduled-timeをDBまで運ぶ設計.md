@@ -1,9 +1,15 @@
 ---
-title: "通知を「推論が終わった時刻」ではなく「予定日」で配る - EventBridge Scheduler の scheduled-time を DB まで運ぶ設計"
-emoji: "📬"
-type: "tech"
-topics: ["AWS", "EventBridge", "StepFunctions", "設計", "バッチ処理"]
-published: false
+title: 通知を「推論が終わった時刻」ではなく「予定日」で配る - EventBridge Scheduler の scheduled-time を DB まで運ぶ設計
+emoji: 📬
+type: tech
+topics:
+  - AWS
+  - EventBridge
+  - StepFunctions
+  - 設計
+  - バッチ処理
+published: true
+url: https://qiita.com/zucky-quest/items/8b7ebbc63a8ff581b736
 ---
 
 ## TL;DR
