@@ -1,9 +1,15 @@
 ---
-title: "Team プランの private リポで、PR の Approve を E2E の承認ゲートにする"
-emoji: "✅"
-type: "tech"
-topics: ["GitHubActions", "GitHub", "セキュリティ", "E2E", "CI"]
-published: false
+title: Team プランの private リポで、PR の Approve を E2E の承認ゲートにする
+emoji: ✅
+type: tech
+topics:
+  - GitHubActions
+  - GitHub
+  - セキュリティ
+  - E2E
+  - CI
+published: true
+url: https://qiita.com/zucky-quest/items/1e77fac548b0acee54ee
 ---
 ## TL;DR
 
