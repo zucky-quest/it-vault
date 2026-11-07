@@ -8,7 +8,7 @@ topics:
   - Git
   - herdr
   - Ghostty
-published: false
+published: true
 url: https://qiita.com/zucky-quest/items/74ed4d7fd676dd5f5556
 ---
 

@@ -1,9 +1,15 @@
 ---
-title: "SM がいなかったチームのスクラムを、PSM I の学びで立て直した - 20 スプリントの before と after"
-emoji: "🔄"
-type: "idea"
-topics: ["スクラム", "アジャイル", "スクラムマスター", "チーム開発", "資格"]
-published: false
+title: SM がいなかったチームのスクラムを、PSM I の学びで立て直した - 20 スプリントの before と after
+emoji: 🔄
+type: idea
+topics:
+  - スクラム
+  - アジャイル
+  - スクラムマスター
+  - チーム開発
+  - 資格
+published: true
+url: https://qiita.com/zucky-quest/items/5f41c8d908dd495fa075
 ---
 ## TL;DR
 
