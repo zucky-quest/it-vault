@@ -1,9 +1,15 @@
 ---
-title: "OpenAPI を正本にして、Apidog・Go・TypeScript を「生成と CI」で同期する"
-emoji: "🔁"
-type: "tech"
-topics: ["OpenAPI", "Go", "TypeScript", "Apidog", "GitHubActions"]
-published: false
+title: OpenAPI を正本にして、Apidog・Go・TypeScript を「生成と CI」で同期する
+emoji: 🔁
+type: tech
+topics:
+  - OpenAPI
+  - Go
+  - TypeScript
+  - Apidog
+  - GitHubActions
+published: true
+url: https://qiita.com/zucky-quest/items/cacab0353c931bb6b8c8
 ---
 
 ## TL;DR
