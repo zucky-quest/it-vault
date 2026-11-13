@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "スクラムイベントの準備をAIエージェントのスキルに任せた - 事実と問いまでを出し、決めるのはチーム"
             }
+          },
+          {
+            "id": "a8d4c2abb0d976ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-projects/job-change/companies/株式会社ドリーム・アーツ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "株式会社ドリーム・アーツ"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,17 +280,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d91d2153fbb03b4",
+  "active": "a8d4c2abb0d976ff",
   "lastOpenFiles": [
+    "02-projects/job-change/companies/0-index.md",
+    "02-projects/job-change/companies/株式会社ドリーム・アーツ.md",
+    "00-index/0-index.md",
     "03-work/blog/0-index.md",
-    "03-work/blog/qiita/OpenAPIを正本にして、Apidog・Go・TypeScriptを「生成とCI」で同期する.md",
     "03-work/blog/qiita/スクラムイベントの準備をAIエージェントのスキルに任せた - 事実と問いまでを出し、決めるのはチーム.md",
+    "03-work/blog/qiita/OpenAPIを正本にして、Apidog・Go・TypeScriptを「生成とCI」で同期する.md",
     "03-work/blog/qiita/1案件4セッション - 統合リポのClaude Codeにサブリポを横断レビューさせる.md",
     "03-work/blog/qiita/Teamプランのprivateリポで、PRのApproveをE2Eの承認ゲートにする.md",
     "03-work/blog/qiita/SMがいなかったチームのスクラムを、PSM Iの学びで立て直した - 20スプリントのbeforeとafter.md",
     "02-projects/job-change/companies/株式会社ラクス.md",
     "02-projects/job-change/job-change-criteria.md",
-    "02-projects/job-change/companies/0-index.md",
     "03-work/blog/qiita/通知を推論が終わった時刻ではなく予定日で配る - EventBridge Schedulerのscheduled-timeをDBまで運ぶ設計.md",
     "02-projects/job-change/interview-notes.md",
     "03-work/blog/qiita/ドキュメントの置き場所は誰が読むかで決める - docsとConfluenceの線引きと、移して得たもの.md",
@@ -284,7 +300,6 @@
     "03-work/blog/qiita/何も起きなかったをメトリクスの欠損で検知する - 毎日必ず動くバッチを観測点にして、日次の処理を3層で監視する.md",
     "03-work/blog/qiita/gitleaksからbetterleaksへ - PRごとのツリー検査と週次の全履歴検査に分け、除外もパスとコミットで分けた.md",
     "03-work/blog/qiita/多数のテーブルの一括UPDATE文をinformation_schemaから自動生成する - 更新する列を機械的に決めて、人の書き漏れをなくす.md",
-    "00-index/0-index.md",
     "01-journal/2026/10/27.md",
     "03-work/blog/qiita/dry-runの無いメール送信バッチを、実送信のままE2Eにする - 届き先・対象・頻度を絞って安全を確保した.md",
     "03-work/blog/qiita/S3の大量削除をメンテナンス時間から切り離す - DBの一括処理と別の実行モードにし、バッチサイズの上限は計測で決めた.md",
@@ -293,7 +308,6 @@
     "03-work/blog/qiita/Checkovを入れて終わりにしない - baselineを空にし、除外は2軸の台帳で統制する.md",
     "01-journal/2026/10/26.md",
     "03-work/blog/qiita/MinIOの公式イメージが消えた - 使うS3 APIを5つに絞って後継を実機比較し、フォークを固定して採用した.md",
-    "03-work/blog/qiita/デザインの在りかをリポジトリに書くとAIエージェントがFigmaまで辿れる - 画面一覧表とFigma MCPでUI文言を画面単位でレビューする.md",
     "03-work/blog/qiita/qiita-articles.base",
     "04-clipping",
     "02-projects/job-change/履歴書_鈴木宏尭_20261007.docx",
