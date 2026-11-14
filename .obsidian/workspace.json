@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "0-index"
             }
+          },
+          {
+            "id": "d0ea0575df559e0f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.15.1"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c32de59ebe3d906",
+  "active": "d0ea0575df559e0f",
   "lastOpenFiles": [
     "03-work/blog/qiita/スクラムイベントの準備をAIエージェントのスキルに任せた - 事実と問いまでを出し、決めるのはチーム.md",
     "02-projects/job-change/companies/無題のファイル.md",
