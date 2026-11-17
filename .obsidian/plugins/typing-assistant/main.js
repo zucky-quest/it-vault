@@ -143,18 +143,18 @@ var ICON_MAP = {
   ["link"]: '<svg  viewBox="0 0 1024 1024"  xmlns="http://www.w3.org/2000/svg"><path d="M725.333333 42.666667q50.346667 0 97.152 18.986667t83.84 55.978667 56.021333 83.84 18.986667 97.152q0 50.005333-19.157333 97.152t-55.850667 83.84l-128 128q-3.669333 3.669333-11.008 10.325333-35.669333 31.658667-79.658667 48.170667t-90.325333 16.512q-58.325333 0-110.336-25.002667-38.997333-18.346667-70.656-50.005333t-50.005333-70.656q25.002667-25.002667 60.330667-25.002667 12.330667 0 25.002667 3.669333 21.674667 34.986667 56.661333 56.661333 41.002667 25.002667 89.002667 25.002667 33.322667 0 64.682667-12.672t56.021333-37.333333l128-128q24.661333-24.661333 37.333333-56.021333t12.672-64.682667-12.672-64.682667-37.333333-56.021333-56.021333-37.333333-64.682667-12.672-64.682667 12.672-56.021333 37.333333l-89.685333 89.685333q-42.666667-11.648-88.32-11.648-7.338667 0-20.650667 0.682667 6.656-7.338667 10.325333-11.008l128-128q36.650667-36.650667 83.84-55.850667t97.152-19.157333zM426.666667 341.333333q58.325333 0 110.336 25.002667 38.997333 18.346667 70.656 50.005333t50.005333 70.656q-25.002667 25.002667-60.330667 25.002667-12.330667 0-25.002667-3.669333-21.674667-34.986667-56.661333-56.661333-41.002667-25.002667-89.002667-25.002667-33.322667 0-64.682667 12.672t-56.021333 37.333333l-128 128q-24.661333 24.661333-37.333333 56.021333t-12.672 64.682667 12.672 64.682667 37.333333 56.021333 56.021333 37.333333 64.682667 12.672 64.682667-12.672 56.021333-37.333333l89.685333-89.685333q42.666667 11.648 88.32 11.648 7.338667 0 20.650667-0.682667-6.656 7.338667-10.325333 11.008l-128 128q-36.992 36.992-83.84 56.021333t-97.152 18.986667q-50.005333 0-97.152-19.157333t-83.84-55.850667q-36.992-36.992-56.021333-83.84t-18.986667-97.152 18.986667-97.152 56.021333-83.84l128-128q3.669333-3.669333 11.008-10.325333 35.669333-31.658667 79.658667-48.170667t90.325333-16.512z"  fill="#14181F"></path></svg>',
   ["math"]: '<svg viewBox="0 0 1024 1024"  xmlns="http://www.w3.org/2000/svg"><path d="M358.4 298.666667a85.333333 85.333333 0 0 1 85.333333-85.333334h85.333334a42.666667 42.666667 0 0 0 42.666666-42.666666 42.666667 42.666667 0 0 0-42.666666-42.666667h-85.333334a170.666667 170.666667 0 0 0-170.666666 170.666667v597.333333a42.666667 42.666667 0 0 0 42.666666 42.666667 42.666667 42.666667 0 0 0 42.666667-42.666667z" fill="#14181F" p-id="13347"></path><path d="M145.066667 426.666667m42.666666 0l298.666667 0q42.666667 0 42.666667 42.666666l0 0q0 42.666667-42.666667 42.666667l-298.666667 0q-42.666667 0-42.666666-42.666667l0 0q0-42.666667 42.666666-42.666666Z" fill="#333"></path><path d="M865.706667 426.666667a42.666667 42.666667 0 0 0-37.12 21.333333l-85.333334 149.333333-85.333333-149.333333a42.666667 42.666667 0 0 0-37.12-21.333333 42.666667 42.666667 0 0 0-36.693333 64l110.933333 192-110.933333 192a42.666667 42.666667 0 0 0 36.693333 64 42.666667 42.666667 0 0 0 37.12-21.333334l85.333333-149.333333 85.333334 149.333333a42.666667 42.666667 0 0 0 37.12 21.333334 42.666667 42.666667 0 0 0 36.693333-64l-110.933333-192 110.933333-192a42.666667 42.666667 0 0 0-36.693333-64z" fill="#14181F" p-id="13349"></path></svg>',
   ["highlight"]: '<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" ><path d="M576 182.656l-128 32V341.333333h128V182.656zM661.333333 341.333333V155.306667a64 64 0 0 0-79.530666-62.08l-170.666667 42.666666A64 64 0 0 0 362.666667 197.973333V341.333333h-42.666667a64 64 0 0 0-64 64v128h-42.666667a64 64 0 0 0-64 64v320h85.333334V618.666667h106.666666v-192h341.333334v192h106.666666v298.666666h85.333334V597.333333a64 64 0 0 0-64-64h-42.666667v-128a64 64 0 0 0-64-64h-42.666667z" fill="#14181F" p-id="8832"></path></svg>',
-  ["note-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000""><path d="M4.333 16.048L16.57 3.81a2.56 2.56 0 0 1 3.62 3.619L7.951 19.667a2 2 0 0 1-1.022.547L3 21l.786-3.93a2 2 0 0 1 .547-1.022z"/><path d="M14.5 6.5l3 3"/></svg>',
-  ["abstract-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M4 4v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8.342a2 2 0 0 0-.602-1.43l-4.44-4.342A2 2 0 0 0 13.56 2H6a2 2 0 0 0-2 2z"/><path d="M9 13h6"/><path d="M9 17h3"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg>',
-  ["info-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><circle cx="12" cy="12" r="10"/><path d="M12 7h.01"/><path d="M10 11h2v5"/><path d="M10 16h4"/></svg>',
-  ["todo-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M8 12.5l3 3 5-6"/><circle cx="12" cy="12" r="10"/></svg>',
-  ["tip-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M12 22c-4.97 0-9-2.582-9-7v-.088C3 12.794 4.338 11.1 6.375 10c1.949-1.052 3.101-2.99 2.813-5l-.563-3 2.086.795c3.757 1.43 6.886 3.912 8.914 7.066A8.495 8.495 0 0 1 21 14.464V15c0 1.562-.504 2.895-1.375 3.965"/><path d="M12 22c-1.657 0-3-1.433-3-3.2 0-1.4 1.016-2.521 1.91-3.548L12 14l1.09 1.252C13.984 16.28 15 17.4 15 18.8c0 1.767-1.343 3.2-3 3.2z"/></svg>',
-  ["success-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M4 12l6 6L20 6"/></svg>',
-  ["question-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><circle cx="12" cy="12" r="10"/><path d="M10 8.484C10.5 7.494 11 7 12 7c1.246 0 2 .989 2 1.978s-.5 1.483-2 2.473V13m0 3.5v.5"/></svg>',
-  ["warning-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M12 9v5"/><path d="M12 17.5v.5"/><path d="M2.232 19.016L10.35 3.052c.713-1.403 2.59-1.403 3.302 0l8.117 15.964C22.45 20.36 21.544 22 20.116 22H3.883c-1.427 0-2.334-1.64-1.65-2.984z"/></svg>',
-  ["failure-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M20 20L4 4m16 0L4 20"/></svg>',
-  ["danger-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M17.684 3.603c.521-.659.03-1.603-.836-1.603h-6.716c-.375 0-.722.192-.909.502l-5.082 8.456c-.401.666.103 1.497.908 1.497h3.429l-3.23 8.065c-.467 1.02.795 1.953 1.643 1.215L20 9.331h-6.849l4.533-5.728z"/></svg>',
-  ["bug-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M5 9a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v5a7 7 0 0 1-7 7v0a7 7 0 0 1-7-7V9z"/><path d="M8 6v-.425c0-.981.384-1.96 1.326-2.238 1.525-.45 3.823-.45 5.348 0C15.616 3.615 16 4.594 16 5.575V6"/><path d="M18.5 7.5L22 4"/><path d="M5.5 7.5L2 4"/><path d="M6 18l-4 3"/><path d="M5 12H1.5"/><path d="M22.5 12H19"/><path d="M18 18l4 3"/><path d="M12 13v8"/></svg>',
-  ["example-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M5 6h14M5 12h14M5 18h14"/></svg>',
+  ["note-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M4.333 16.048L16.57 3.81a2.56 2.56 0 0 1 3.62 3.619L7.951 19.667a2 2 0 0 1-1.022.547L3 21l.786-3.93a2 2 0 0 1 .547-1.022z"/><path d="M14.5 6.5l3 3"/></svg>',
+  ["abstract-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M4 4v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8.342a2 2 0 0 0-.602-1.43l-4.44-4.342A2 2 0 0 0 13.56 2H6a2 2 0 0 0-2 2z"/><path d="M9 13h6"/><path d="M9 17h3"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg>',
+  ["info-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><circle cx="12" cy="12" r="10"/><path d="M12 7h.01"/><path d="M10 11h2v5"/><path d="M10 16h4"/></svg>',
+  ["todo-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M8 12.5l3 3 5-6"/><circle cx="12" cy="12" r="10"/></svg>',
+  ["tip-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M12 22c-4.97 0-9-2.582-9-7v-.088C3 12.794 4.338 11.1 6.375 10c1.949-1.052 3.101-2.99 2.813-5l-.563-3 2.086.795c3.757 1.43 6.886 3.912 8.914 7.066A8.495 8.495 0 0 1 21 14.464V15c0 1.562-.504 2.895-1.375 3.965"/><path d="M12 22c-1.657 0-3-1.433-3-3.2 0-1.4 1.016-2.521 1.91-3.548L12 14l1.09 1.252C13.984 16.28 15 17.4 15 18.8c0 1.767-1.343 3.2-3 3.2z"/></svg>',
+  ["success-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M4 12l6 6L20 6"/></svg>',
+  ["question-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><circle cx="12" cy="12" r="10"/><path d="M10 8.484C10.5 7.494 11 7 12 7c1.246 0 2 .989 2 1.978s-.5 1.483-2 2.473V13m0 3.5v.5"/></svg>',
+  ["warning-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M12 9v5"/><path d="M12 17.5v.5"/><path d="M2.232 19.016L10.35 3.052c.713-1.403 2.59-1.403 3.302 0l8.117 15.964C22.45 20.36 21.544 22 20.116 22H3.883c-1.427 0-2.334-1.64-1.65-2.984z"/></svg>',
+  ["failure-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M20 20L4 4m16 0L4 20"/></svg>',
+  ["danger-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M17.684 3.603c.521-.659.03-1.603-.836-1.603h-6.716c-.375 0-.722.192-.909.502l-5.082 8.456c-.401.666.103 1.497.908 1.497h3.429l-3.23 8.065c-.467 1.02.795 1.953 1.643 1.215L20 9.331h-6.849l4.533-5.728z"/></svg>',
+  ["bug-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M5 9a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v5a7 7 0 0 1-7 7v0a7 7 0 0 1-7-7V9z"/><path d="M8 6v-.425c0-.981.384-1.96 1.326-2.238 1.525-.45 3.823-.45 5.348 0C15.616 3.615 16 4.594 16 5.575V6"/><path d="M18.5 7.5L22 4"/><path d="M5.5 7.5L2 4"/><path d="M6 18l-4 3"/><path d="M5 12H1.5"/><path d="M22.5 12H19"/><path d="M18 18l4 3"/><path d="M12 13v8"/></svg>',
+  ["example-call-out"]: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#000000"><path d="M5 6h14M5 12h14M5 18h14"/></svg>',
   ["tag"]: '<svg  viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M525.249536 102.7072c9.216 0 18.0736 3.584 24.576 9.9328l461.568 450.4576c9.5744 11.264 13.9776 25.1904 12.288 39.68-1.3824 11.9808-6.3488 22.9888-16.4864 34.4576l-278.6304 268.0832a57.4976 57.4976 0 0 1-40.0384 16.2816c-14.1312 0-25.9584-5.0176-40.6528-16.2816l-8.704-6.912 48.1792-48.2304 227.1744-218.368c8.6016-9.9328 12.8512-21.8112 12.8512-35.6864a42.7008 42.7008 0 0 0-14.08-33.3824l-420.352-408.3712c-20.2752-18.944-41.216-32.3072-62.7712-40.0896-28.5184-10.24-51.5584-11.4176-43.4176-11.52h138.496zM349.070336 102.4c9.216 0 18.0736 3.584 24.576 9.9328l461.568 450.4576c9.5232 11.264 13.9776 25.1392 12.288 39.6288-1.3824 11.9808-6.3488 23.04-16.4864 34.4576l-278.6816 268.0832a57.4976 57.4976 0 0 1-40.0384 16.3328c-14.08 0-27.2384-5.0176-41.8816-16.2816L10.535936 469.2992A33.1776 33.1776 0 0 1 0.039936 445.2352V171.9296c-0.512-17.1008 3.8912-32.7168 13.824-45.568C25.639936 111.2064 43.457536 103.6288 66.548736 102.4h282.5216zM229.927936 237.9776c-45.056 0-81.5616 35.6352-81.5616 79.616 0 43.9296 36.5056 79.5648 81.5616 79.5648s81.5616-35.6352 81.5616-79.5648c0-43.9808-36.5056-79.616-81.5616-79.616z" fill="#14181F" p-id="25734"></path></svg>',
   ["embed"]: '<svg  viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" ><path d="M122.368 165.888h778.24c-9.216 0-16.384-7.168-16.384-16.384v713.728c0-9.216 7.168-16.384 16.384-16.384h-778.24c9.216 0 16.384 7.168 16.384 16.384V150.016c0 8.192-6.656 15.872-16.384 15.872z m-32.768 684.544c0 26.112 20.992 47.104 47.104 47.104h750.08c26.112 0 47.104-20.992 47.104-47.104V162.304c0-26.112-20.992-47.104-47.104-47.104H136.704c-26.112 0-47.104 20.992-47.104 47.104v688.128z" p-id="27999" fill="#14181F"></path><path d="M597.504 300.544h230.912v49.152h-230.912zM596.992 437.76h230.912v49.152h-230.912zM210.432 574.976h617.984v49.152H210.432zM210.432 712.192h617.984v49.152H210.432zM246.784 296.448h88.064V501.76h-29.184v29.184h117.248V501.76h-29.696V296.448H481.28v29.184h29.184V238.08H217.6v87.552h29.184z" p-id="28000" fill="#14181F"></path></svg>',
   ["table"]: '<svg  viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" ><path d="M141.074286 906.496h741.851428c89.581714 0 134.582857-44.562286 134.582857-132.845714V250.331429c0-88.283429-45.001143-132.845714-134.582857-132.845715H141.074286C51.931429 117.504 6.491429 161.645714 6.491429 250.331429V773.668571c0 88.704 45.44 132.845714 134.582857 132.845715zM75.501714 253.805714c0-44.580571 23.990857-67.291429 66.852572-67.291428h339.437714v176.566857H75.483429z m466.706286 109.275429V186.514286h339.437714c42.422857 0 66.852571 22.710857 66.852572 67.291428v109.275429z m0 237.44v-177.005714h406.290286v177.005714z m-60.416-177.005714v177.005714H75.483429v-177.005714zM881.645714 837.485714H542.208v-176.548571h406.290286v109.275428c0 44.580571-24.429714 67.291429-66.852572 67.291429z m-739.291428 0c-42.861714 0-66.852571-22.692571-66.852572-67.273143v-109.293714h406.290286v176.585143z" p-id="4271"></path></svg>',
@@ -530,6 +530,10 @@ var CMD_CONFIG = {
     cmd: "typing-assistant:insert-table"
   }
 };
+function resolveCommandId(commandId, pluginId) {
+  const prefix = "typing-assistant:";
+  return commandId.startsWith(prefix) ? `${pluginId}:${commandId.slice(prefix.length)}` : commandId;
+}
 var config2Arr = (conf) => {
   const arr = [];
   for (const key in conf) {
@@ -580,7 +584,9 @@ var CommandMenu = class {
       if (!str) {
         _cmds = this.defaultCmds;
       } else {
-        _cmds = import_fuzzy.default.filter(str || "", CMD_CONFIG_ARR, { extract: (e) => e.title }).map((e) => e.original.cmd).filter((e) => HEADING_MENU.includes(e));
+        _cmds = this.allCmds.filter(
+          (cmd) => import_fuzzy.default.test(str, CMD_CONFIG[cmd].title)
+        );
       }
       this.generateMenu(_cmds);
     };
@@ -658,9 +664,11 @@ var CommandMenu = class {
     this.remove = function() {
       this.scrollArea.removeChild(this.menu);
     };
+    var _a;
     this.menu = createDiv({ cls: "command", attr: { id: "command-menu" } });
     this.mouseMoved = false;
     this.defaultCmds = props.defaultCmds;
+    this.allCmds = (_a = props.allCmds) != null ? _a : [.../* @__PURE__ */ new Set([...props.defaultCmds, ...HEADING_MENU])];
     this.scrollArea = props.scrollArea;
     this.menuHieght = Math.min(COMMAD_ITEM_EIGHT * props.defaultCmds.length, MAX_MENU_HEIGHT);
     this.callback = props.onMenu;
@@ -668,6 +676,28 @@ var CommandMenu = class {
     this.hide();
   }
 };
+
+// src/command-order.ts
+function normalizeCommandOrder(settings) {
+  var _a;
+  const initialMenu = HEADING_MENU.filter((cmd) => cmd === "insert-note-callout" || !cmd.includes("callout"));
+  const validCommands = (value) => Array.isArray(value) ? value.filter((cmd) => HEADING_MENU.includes(cmd)) : [];
+  const enabled = validCommands((_a = settings.cmdsSorting) != null ? _a : initialMenu);
+  const hidden = validCommands(settings.disabledCmdsSorting);
+  const commandOrder = [.../* @__PURE__ */ new Set([
+    ...validCommands(settings.commandOrder),
+    ...enabled,
+    ...hidden,
+    ...HEADING_MENU
+  ])];
+  const enabledSet = new Set(enabled);
+  return {
+    commandOrder,
+    // Retain the old fields as ordered projections for existing installations.
+    cmdsSorting: commandOrder.filter((cmd) => enabledSet.has(cmd)),
+    disabledCmdsSorting: commandOrder.filter((cmd) => !enabledSet.has(cmd))
+  };
+}
 
 // src/components/link-input-modal.ts
 var import_obsidian2 = require("obsidian");
@@ -822,109 +852,93 @@ var SelectionBtns = class {
 var import_obsidian4 = require("obsidian");
 
 // node_modules/sortablejs/modular/sortable.esm.js
-function ownKeys(object, enumerableOnly) {
-  var keys = Object.keys(object);
-  if (Object.getOwnPropertySymbols) {
-    var symbols = Object.getOwnPropertySymbols(object);
-    if (enumerableOnly) {
-      symbols = symbols.filter(function(sym) {
-        return Object.getOwnPropertyDescriptor(object, sym).enumerable;
-      });
-    }
-    keys.push.apply(keys, symbols);
-  }
-  return keys;
-}
-function _objectSpread2(target) {
-  for (var i = 1; i < arguments.length; i++) {
-    var source = arguments[i] != null ? arguments[i] : {};
-    if (i % 2) {
-      ownKeys(Object(source), true).forEach(function(key) {
-        _defineProperty(target, key, source[key]);
-      });
-    } else if (Object.getOwnPropertyDescriptors) {
-      Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
-    } else {
-      ownKeys(Object(source)).forEach(function(key) {
-        Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
-      });
-    }
-  }
-  return target;
-}
-function _typeof(obj) {
-  "@babel/helpers - typeof";
-  if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
-    _typeof = function(obj2) {
-      return typeof obj2;
-    };
-  } else {
-    _typeof = function(obj2) {
-      return obj2 && typeof Symbol === "function" && obj2.constructor === Symbol && obj2 !== Symbol.prototype ? "symbol" : typeof obj2;
-    };
-  }
-  return _typeof(obj);
-}
-function _defineProperty(obj, key, value) {
-  if (key in obj) {
-    Object.defineProperty(obj, key, {
-      value,
-      enumerable: true,
-      configurable: true,
-      writable: true
-    });
-  } else {
-    obj[key] = value;
-  }
-  return obj;
+function _defineProperty(e, r, t) {
+  return (r = _toPropertyKey(r)) in e ? Object.defineProperty(e, r, {
+    value: t,
+    enumerable: true,
+    configurable: true,
+    writable: true
+  }) : e[r] = t, e;
 }
 function _extends() {
-  _extends = Object.assign || function(target) {
-    for (var i = 1; i < arguments.length; i++) {
-      var source = arguments[i];
-      for (var key in source) {
-        if (Object.prototype.hasOwnProperty.call(source, key)) {
-          target[key] = source[key];
-        }
-      }
+  return _extends = Object.assign ? Object.assign.bind() : function(n) {
+    for (var e = 1; e < arguments.length; e++) {
+      var t = arguments[e];
+      for (var r in t)
+        ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]);
     }
-    return target;
-  };
-  return _extends.apply(this, arguments);
+    return n;
+  }, _extends.apply(null, arguments);
 }
-function _objectWithoutPropertiesLoose(source, excluded) {
-  if (source == null)
-    return {};
-  var target = {};
-  var sourceKeys = Object.keys(source);
-  var key, i;
-  for (i = 0; i < sourceKeys.length; i++) {
-    key = sourceKeys[i];
-    if (excluded.indexOf(key) >= 0)
-      continue;
-    target[key] = source[key];
-  }
-  return target;
-}
-function _objectWithoutProperties(source, excluded) {
-  if (source == null)
-    return {};
-  var target = _objectWithoutPropertiesLoose(source, excluded);
-  var key, i;
+function ownKeys(e, r) {
+  var t = Object.keys(e);
   if (Object.getOwnPropertySymbols) {
-    var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
-    for (i = 0; i < sourceSymbolKeys.length; i++) {
-      key = sourceSymbolKeys[i];
-      if (excluded.indexOf(key) >= 0)
-        continue;
-      if (!Object.prototype.propertyIsEnumerable.call(source, key))
-        continue;
-      target[key] = source[key];
-    }
+    var o = Object.getOwnPropertySymbols(e);
+    r && (o = o.filter(function(r2) {
+      return Object.getOwnPropertyDescriptor(e, r2).enumerable;
+    })), t.push.apply(t, o);
   }
-  return target;
+  return t;
 }
-var version = "1.15.6";
+function _objectSpread2(e) {
+  for (var r = 1; r < arguments.length; r++) {
+    var t = null != arguments[r] ? arguments[r] : {};
+    r % 2 ? ownKeys(Object(t), true).forEach(function(r2) {
+      _defineProperty(e, r2, t[r2]);
+    }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(t)) : ownKeys(Object(t)).forEach(function(r2) {
+      Object.defineProperty(e, r2, Object.getOwnPropertyDescriptor(t, r2));
+    });
+  }
+  return e;
+}
+function _objectWithoutProperties(e, t) {
+  if (null == e)
+    return {};
+  var o, r, i = _objectWithoutPropertiesLoose(e, t);
+  if (Object.getOwnPropertySymbols) {
+    var n = Object.getOwnPropertySymbols(e);
+    for (r = 0; r < n.length; r++)
+      o = n[r], -1 === t.indexOf(o) && {}.propertyIsEnumerable.call(e, o) && (i[o] = e[o]);
+  }
+  return i;
+}
+function _objectWithoutPropertiesLoose(r, e) {
+  if (null == r)
+    return {};
+  var t = {};
+  for (var n in r)
+    if ({}.hasOwnProperty.call(r, n)) {
+      if (-1 !== e.indexOf(n))
+        continue;
+      t[n] = r[n];
+    }
+  return t;
+}
+function _toPrimitive(t, r) {
+  if ("object" != typeof t || !t)
+    return t;
+  var e = t[Symbol.toPrimitive];
+  if (void 0 !== e) {
+    var i = e.call(t, r || "default");
+    if ("object" != typeof i)
+      return i;
+    throw new TypeError("@@toPrimitive must return a primitive value.");
+  }
+  return ("string" === r ? String : Number)(t);
+}
+function _toPropertyKey(t) {
+  var i = _toPrimitive(t, "string");
+  return "symbol" == typeof i ? i : i + "";
+}
+function _typeof(o) {
+  "@babel/helpers - typeof";
+  return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(o2) {
+    return typeof o2;
+  } : function(o2) {
+    return o2 && "function" == typeof Symbol && o2.constructor === Symbol && o2 !== Symbol.prototype ? "symbol" : typeof o2;
+  }, _typeof(o);
+}
+var version = "1.15.7";
 function userAgent(pattern) {
   if (typeof window !== "undefined" && window.navigator) {
     return !!/* @__PURE__ */ navigator.userAgent.match(pattern);
@@ -966,7 +980,7 @@ function matches(el, selector) {
   return false;
 }
 function getParentOrHost(el) {
-  return el.host && el !== document && el.host.nodeType ? el.host : el.parentNode;
+  return el.host && el !== document && el.host.nodeType && el.host !== el ? el.host : el.parentNode;
 }
 function closest(el, selector, ctx, includeCTX) {
   if (el) {
@@ -2525,8 +2539,11 @@ Sortable.prototype = /** @lends Sortable.prototype */
   _nulling: function _nulling() {
     pluginEvent2("nulling", this);
     rootEl = dragEl = parentEl = ghostEl = nextEl = cloneEl = lastDownEl = cloneHidden = tapEvt = touchEvt = moved = newIndex = newDraggableIndex = oldIndex = oldDraggableIndex = lastTarget = lastDirection = putSortable = activeGroup = Sortable.dragged = Sortable.ghost = Sortable.clone = Sortable.active = null;
-    savedInputChecked.forEach(function(el) {
-      el.checked = true;
+    var el = this.el;
+    savedInputChecked.forEach(function(checkEl) {
+      if (el.contains(checkEl)) {
+        checkEl.checked = true;
+      }
     });
     savedInputChecked.length = lastDx = lastDy = 0;
   },
@@ -3076,7 +3093,6 @@ var ExampleSettingTab = class extends import_obsidian4.PluginSettingTab {
     this.hasChanged = false;
   }
   display() {
-    var _a;
     const { containerEl } = this;
     containerEl.empty();
     containerEl.createEl("h2", { text: "Typing Assistant" });
@@ -3104,50 +3120,66 @@ var ExampleSettingTab = class extends import_obsidian4.PluginSettingTab {
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian4.Setting(containerEl).setName("Commands Menu").setDesc("Supports custom command combinations and drag-and-drop sorting; please ensure that at least 5 commands are open");
+    new import_obsidian4.Setting(containerEl).setName("Commands Menu").setDesc("Drag any command to set its order in the menu and search results. Toggles only control visibility in the initial `/` menu; hidden commands remain searchable and usable. Keep at least 5 commands visible.");
     const CmdSettings = containerEl.createDiv({ cls: "heading-config" });
-    const CmdsOn = containerEl.createDiv({ attr: { id: "cmds-on" }, cls: "heading-config-on" });
-    const CmdsOff = containerEl.createDiv({ attr: { id: "cmds-off" }, cls: "heading-config-off" });
-    CmdSettings.appendChild(CmdsOn);
-    CmdSettings.appendChild(CmdsOff);
-    let cmdsSorting = ((_a = this.plugin.settings) == null ? void 0 : _a.cmdsSorting) || [];
-    const cmdsAll = [.../* @__PURE__ */ new Set([...cmdsSorting, ...HEADING_MENU])];
+    const enabledSet = new Set(this.plugin.settings.cmdsSorting);
+    const cmdsAll = this.plugin.settings.commandOrder;
+    const toggleMap = /* @__PURE__ */ new Map();
+    const getCmdsFromContainer = (container) => {
+      return Array.from(container.children).map((item) => item.getAttribute("data-cmd")).filter((cmd) => Boolean(cmd && HEADING_MENU.includes(cmd)));
+    };
+    const updateToggleDisabledStates = () => {
+      for (const [cmd, toggle] of toggleMap.entries()) {
+        toggle.setDisabled(enabledSet.size <= 5 && enabledSet.has(cmd));
+      }
+    };
+    const updateAndSaveOrder = async () => {
+      const order = normalizeCommandOrder({
+        commandOrder: getCmdsFromContainer(CmdSettings),
+        cmdsSorting: [...enabledSet]
+      });
+      Object.assign(this.plugin.settings, order);
+      if (this.plugin.commands) {
+        this.plugin.commands.defaultCmds = [...order.cmdsSorting];
+        this.plugin.commands.allCmds = [...order.commandOrder];
+      }
+      updateToggleDisabledStates();
+      this.hasChanged = true;
+      await this.plugin.saveSettings();
+    };
     for (let i = 0; i < cmdsAll.length; i++) {
       const cmd = cmdsAll[i];
-      let HeaderItem;
-      const isChecked = this.plugin.settings.cmdsSorting.includes(cmd);
-      if (isChecked) {
-        HeaderItem = CmdsOn.createDiv({ cls: "heading-item" });
-      } else {
-        HeaderItem = CmdsOff.createDiv({ cls: "heading-item" });
-      }
+      const isChecked = enabledSet.has(cmd);
+      const HeaderItem = CmdSettings.createDiv({
+        cls: isChecked ? "heading-item" : "heading-item is-hidden-command",
+        attr: { "data-cmd": cmd }
+      });
       const IconDiv = HeaderItem.createDiv({ cls: "heading-item-icon" });
       (0, import_obsidian4.setIcon)(IconDiv, CMD_CONFIG[cmd].icon);
-      new import_obsidian4.Setting(HeaderItem).setName(CMD_CONFIG[cmd].title).addToggle(
-        (component) => component.setValue(isChecked).onChange(async () => {
-          if (cmdsSorting.includes(cmd)) {
-            cmdsSorting = cmdsSorting.filter((i2) => i2 !== cmd);
-            CmdsOn.removeChild(HeaderItem);
-            CmdsOff.insertBefore(HeaderItem, CmdsOff.firstElementChild);
-          } else {
-            cmdsSorting.push(cmd);
-            CmdsOff.removeChild(HeaderItem);
-            CmdsOn.appendChild(HeaderItem);
+      new import_obsidian4.Setting(HeaderItem).setName(CMD_CONFIG[cmd].title).addToggle((component) => {
+        toggleMap.set(cmd, component);
+        component.setValue(isChecked).setTooltip("Show in the initial / menu").onChange(async (visible) => {
+          if (!visible && enabledSet.has(cmd) && enabledSet.size <= 5) {
+            component.setValue(true);
+            return;
           }
-          this.hasChanged = true;
-          this.plugin.settings.cmdsSorting = [...cmdsSorting];
-          await this.plugin.saveSettings();
-        })
-      ).setDisabled(cmdsSorting.length <= 5 && cmdsSorting.includes(cmd));
-    }
-    new sortable_esm_default(CmdsOn, {
-      onEnd: async (e) => {
-        const cmdsSorting2 = Array.from(e.to.children).map((item) => {
-          return HEADING_MENU.find((cmd) => CMD_CONFIG[cmd].title === item.textContent);
+          if (visible) {
+            enabledSet.add(cmd);
+            HeaderItem.removeClass("is-hidden-command");
+          } else {
+            enabledSet.delete(cmd);
+            HeaderItem.addClass("is-hidden-command");
+          }
+          await updateAndSaveOrder();
         });
-        this.plugin.settings.cmdsSorting = [...cmdsSorting2];
-        this.hasChanged = true;
-        await this.plugin.saveSettings();
+      });
+    }
+    updateToggleDisabledStates();
+    new sortable_esm_default(CmdSettings, {
+      filter: ".setting-item-control",
+      preventOnFilter: false,
+      onEnd: async () => {
+        await updateAndSaveOrder();
       }
     });
   }
@@ -3615,8 +3647,13 @@ var isLineSelect = (el) => {
 var { isMobile } = import_obsidian7.Platform;
 var TypingAsstPlugin = class extends import_obsidian7.Plugin {
   async loadSettings() {
-    const initialMenu = HEADING_MENU.filter((item) => item === "insert-note-callout" || !item.includes("callout"));
-    this.settings = Object.assign({}, { nonEmptyLineDisabled: false, showPlaceholder: true, cmdsSorting: initialMenu, disableSelectionMenu: isMobile }, await this.loadData());
+    var _a;
+    const savedSettings = (_a = await this.loadData()) != null ? _a : {};
+    this.settings = Object.assign({}, {
+      nonEmptyLineDisabled: false,
+      showPlaceholder: true,
+      disableSelectionMenu: isMobile
+    }, savedSettings, normalizeCommandOrder(savedSettings));
     if (false) {
       console.log("commands======>", this.app.commands);
     }
@@ -3639,7 +3676,9 @@ var TypingAsstPlugin = class extends import_obsidian7.Plugin {
         const lineContent = editor.getLine(cursor.line);
         editor.setLine(cursor.line, lineContent.replace(/^.*?\s/, ""));
       }
-      this.app.commands.executeCommandById(CMD_CONFIG[content].cmd);
+      this.app.commands.executeCommandById(
+        resolveCommandId(CMD_CONFIG[content].cmd, this.manifest.id)
+      );
       if (content === "set-link") {
         view.editor.focus();
       }
@@ -3649,7 +3688,7 @@ var TypingAsstPlugin = class extends import_obsidian7.Plugin {
       const view = this.app.workspace.getActiveViewOfType(import_obsidian7.MarkdownView);
       if (view) {
         this.app.commands.executeCommandById(
-          CMD_CONFIG[content].cmd
+          resolveCommandId(CMD_CONFIG[content].cmd, this.manifest.id)
         );
         view.editor.focus();
         if (content === CONTENT_MAP["bookmark"]) {
@@ -3786,7 +3825,8 @@ ${codeStr}`,
       this.commands = new CommandMenu({
         scrollArea,
         onMenu: onMenuClick,
-        defaultCmds: this.settings.cmdsSorting
+        defaultCmds: this.settings.cmdsSorting,
+        allCmds: this.settings.commandOrder
       });
       (_e = this.btns) == null ? void 0 : _e.remove();
       this.btns = new SelectionBtns({
@@ -3833,7 +3873,7 @@ ${codeStr}`,
 
 sortablejs/modular/sortable.esm.js:
   (**!
-   * Sortable 1.15.6
+   * Sortable 1.15.7
    * @author	RubaXa   <trash@rubaxa.org>
    * @author	owenm    <owen23355@gmail.com>
    * @license MIT
