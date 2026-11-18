@@ -16,6 +16,8 @@ kanban-plugin: board
 
 ## WIP
 
+- [ ] 転職活動
+	[[02-projects/job-change/0-index|0-index]]
 
 
 ## Complete
