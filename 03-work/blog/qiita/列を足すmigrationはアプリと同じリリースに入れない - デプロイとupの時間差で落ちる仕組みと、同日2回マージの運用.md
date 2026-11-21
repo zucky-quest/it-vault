@@ -1,9 +1,15 @@
 ---
-title: "列を足す migration は、アプリと同じリリースに入れない - デプロイと up の時間差で落ちる仕組みと、同日 2 回マージの運用"
-emoji: "🪜"
-type: "tech"
-topics: ["MySQL", "Go", "GORM", "データベース", "ECS"]
-published: false
+title: 列を足す migration は、アプリと同じリリースに入れない - デプロイと up の時間差で落ちる仕組みと、同日 2 回マージの運用
+emoji: 🪜
+type: tech
+topics:
+  - MySQL
+  - Go
+  - GORM
+  - データベース
+  - ECS
+published: true
+url: https://qiita.com/zucky-quest/items/cad9639b837c69335e3b
 ---
 ## TL;DR
 
