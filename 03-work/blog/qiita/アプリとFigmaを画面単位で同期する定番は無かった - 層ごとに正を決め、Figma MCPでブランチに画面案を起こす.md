@@ -1,9 +1,15 @@
 ---
-title: "アプリと Figma を画面単位で同期する定番は無かった - 層ごとに正を決め、Figma MCP でブランチに画面案を起こす"
-emoji: "🎨"
-type: "tech"
-topics: ["Figma", "MCP", "ClaudeCode", "デザインシステム", "AIエージェント"]
-published: false
+title: アプリと Figma を画面単位で同期する定番は無かった - 層ごとに正を決め、Figma MCP でブランチに画面案を起こす
+emoji: 🎨
+type: tech
+topics:
+  - Figma
+  - MCP
+  - ClaudeCode
+  - デザインシステム
+  - AIエージェント
+published: true
+url: https://qiita.com/zucky-quest/items/31d18d4e6560b2a29962
 ---
 ## TL;DR
 
